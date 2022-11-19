@@ -29,7 +29,7 @@ Although I’m still in the not-so-socially competent stage of life, I can hope 
 
 --------------------------------
 
-<i> So, I suppose if you’re still reading this, you’re interested in learning how to actually start networking. So here’s some advice...<i>
+<i> So, I suppose if you’re still reading this, you’re interested in learning how to actually start networking. So here’s some advice...</i>
 
 <h3>Networking with Intention</h3>
 
@@ -37,13 +37,13 @@ Although, I generally lean toward not optimizing my social (virtual) interaction
 
 <h4>How to Do It</h4>
 
-<i>Basic Rules of Thumb (Please don’t be offended if this is common sense to you)<i>
+<i>Basic Rules of Thumb (Please don’t be offended if this is common sense to you)</i>
 
 <ol>
 <li>If you’re using Linkedin, Twitter, etc. – optimize your profile. Having a profile picture, bio, and list of your past experiences is generally good. Arguably, the bio is less important if your past experiences point to your interests and skills and are more important if they don’t.</li>
 <li>Have good grammar. Coming off as authentic is an important task – but don’t sacrifice grammar in the process. Instead, get a free account and ask someone to proofread your emails if you’re especially concerned about accomplishing this.</li>
 <li>Express your ‘want’ within the first three sentences of your email – this is a general benchmark. Getting to the point helps the recipient save time learning how they can help you. Note: Be wary of asking for advice on things/seeking answers that you could easily retrieve on your own with some internet digging. <br> Note: Booking a coffee chat is a highly-valuable ‘want’! is a great tool for booking them</li>
-<li>Send links. Links are optional but are (hopefully) highly informative and awesome. Working on a project? Create a doc outlining what you’re working on – even better, make a landing page. I would attribute most of my outreach success to sending documents alongside a message. Why? </li>'
+<li>Send links. Links are optional but are (hopefully) highly informative and awesome. Working on a project? Create a doc outlining what you’re working on – even better, make a landing page. I would attribute most of my outreach success to sending documents alongside a message. Why? </li>
 
 <ul>
 <li>They show that you’ve spent a decent amount of time thinking about stuff.</li>
@@ -54,7 +54,7 @@ Although, I generally lean toward not optimizing my social (virtual) interaction
 <li>Reaching out to a person >>> Reaching out to an institution (find people on Twitter, About Us pages, LinkedIn, etc.)</li>
 </ol>
 
-<h5>Here’s an example follow-up message:</h5>
+<p><b>Here’s an example follow-up message:</b><p>
  
  > Hello,
 

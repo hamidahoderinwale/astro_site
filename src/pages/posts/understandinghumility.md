@@ -37,38 +37,38 @@ A major anxiety for me now entering the college admissions process, is not that 
 
 --------------------------------
 
-<h3><b>The Roots of Humility<b></h3>
+<h3><b>The Roots of Humility</b></h3>
 
 Assuming prestige and humility are mutually exclusive, prestige is almost all-encompassing of things that any sane being would want. So why does humility still at the very least feel like a virtue?
 
 <h4>Deontological Humility</h4>
 
-<h5><i>Religion<i></h5>
+<h5><i>Religion</i></h5>
 
 Social incentives that highly encourage humility are more strong nudging to act with humility. Again, however, it may be best to look at religion to understand why this trait is societally valued. Religion is a good example of how superficially good acts can become culturally normative even if they exist outside the religious constraints they were prescribed.
 
 True humility within the Abrahamic religions comes from a notion of complete subserviency to a greater power – God. However, it can be assumed that not all disciples have a fear of God as their true reason for humility. In theory, the global optima of fearing God should manifest in not chasing social status and recognizing that one’s abilities as a human are negligibly better to others, relative to the divine figure. However, in the absence of faith but the presence of religion, generally, one would be looked down upon for being overly pompous, and others police their mannerisms based on humility, whether it is in recognition of this ultimate aim (fearing God) or not.
 
 
-<h5><i>Evolution<i></h5>
+<h5><i>Evolution</i></h5>
 
 It is quite well known, that a key characteristic of the human race is our social group dynamics. Generally, being in them is beneficial, and we ensure that our actions are well received in said groups for longevity. Regardless, although it can be argued that narcissism and egocentrism are despised, and those that possess them are likely not to have good standings, most social groups, especially those developed under the premise-of survival, have an “alpha with its followers” model. Although today analyzing corporate culture, more egalitarian power distributions are at the very least have become more socially acceptable.
 
 CEOs today are more likely to come forward and express how they view everyone as their equals, but with complete and (mutual) serendipity. The only value in leadership is having a definite say over decisions when efficiency and select totalitarianism are needed. One can argue that trust in a leader having the group’s best interest is most important, but one can’t say that a leader speaking on behalf of their govern is not valuable. If humility was so virtuous as to reign over human kinship, then one could argue that civilization would collapse. Instead, prestige asserts dominance and worthiness to be a leader, and leadership allows for collective action – a fundamental principle in a functioning society.
 
-<h4>Selective Humility<h4>
+<h4>Selective Humility</h4>
 
 I distinctly remember our teachers throwing around the term “sore loser” in elementary school enough that I developed a disdain for the term. In practice, I think the average elementary school environment strives for a “regression to the mean” approach to social status, albeit superficially. In practice, the most athletic were likely to continue being MVPs supporting sports championship wins, and the mathematically gifted would continue correctly answering questions. At the same time, their arms stay sore from remaining in a constant upright position – in apprehension for the teacher’s next question. Regardless, at least in the average, liberal Canadian school, teachers would encourage the maths whiz to let others answer and support general participation on sports teams.
 
-Generally, the common theme was that even if you had innate talent (or whatever allowed you to excel relative to average), demonstrated competency should be equal amongst everyone in the environment. Although, this does not apply in the “real world”, generally, high-performers continue to do well, but with the nuance of not overshining the others. Corporate environments are an interesting example and likely mirror their traditional school equivalents, where performance reviews are tied with material and social incentive. Thus, with promotions and higher pay on the line – it is not the time to be humble. Rather, it is a time to break away from the pack, <i> by all means possible. <i>
+Generally, the common theme was that even if you had innate talent (or whatever allowed you to excel relative to average), demonstrated competency should be equal amongst everyone in the environment. Although, this does not apply in the “real world”, generally, high-performers continue to do well, but with the nuance of not overshining the others. Corporate environments are an interesting example and likely mirror their traditional school equivalents, where performance reviews are tied with material and social incentive. Thus, with promotions and higher pay on the line – it is not the time to be humble. Rather, it is a time to break away from the pack, <i> by all means possible. </i>
 
-<h4>Epistemic (Intrinsic) Humility vs. Superficial (Extrinsic) Humility<h4>
+<h4>Epistemic (Intrinsic) Humility vs. Superficial (Extrinsic) Humility</h4>
 
 I’ve concluded that assuming epistemic humility manifests as expected is disadvantageous for an individual seeking success on traditional paradigms, but superficial humility is relatively beneficial. 
 
-<b>Epistemic Humility:<b> Epistemic humility refers to the idea that our views, opinions and a general understanding of our knowledge rely on our skewed perceptions of the world. Genuine epistemic humility can manifest in a multitude of ways. However, I believe this means that no statement is said with 100% confidence and is subject to change with new information or framing.
+<b>Epistemic Humility:</b> Epistemic humility refers to the idea that our views, opinions and a general understanding of our knowledge rely on our skewed perceptions of the world. Genuine epistemic humility can manifest in a multitude of ways. However, I believe this means that no statement is said with 100% confidence and is subject to change with new information or framing.
 
-<b>Superficial Epistemic Humility:<b>  I believe that someone can be epistemically humble but not superficially epistemically modest, and depending on one’s circle, this can be harmful to their seeking of status. Superficial epistemic humility is based on the principle that you can signal uncertainty in your statements while having high confidence that your views aren’t subject to change.
+<b>Superficial Epistemic Humility:</b>  I believe that someone can be epistemically humble but not superficially epistemically modest, and depending on one’s circle, this can be harmful to their seeking of status. Superficial epistemic humility is based on the principle that you can signal uncertainty in your statements while having high confidence that your views aren’t subject to change.
 
 <h4>So Why Do I Even Care?</h4>
 

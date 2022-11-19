@@ -8,7 +8,7 @@ layout: ../../layouts/Layout.astro
 
 Cults are really interesting. Aside from the memetic cautionary tale of “not drinking the Kool-Aid”, generally learning about the nuances of the most notable of cults has helped me idealize how the most (seemingly) well-adjusted, well-respected and well-off of society can end up in situations, doing things that are completely contrary to what beneficially contributes to the human state all as a result of being in a group?
 
-<h4><b>No One is Safe<b></h4>
+<h4><b>No One is Safe</b></h4>
  
 In true reductionist reasoning, I thought about the groups I was a part of, the level of intelligence I had, and my frequency of interaction with seemingly charismatic people, and I wondered, have I ever been in a cult? Although, this line of thinking is probably irrational – I do think more people should be aware of how little control we have over our decisions and the way we perceive the world – from understanding our qualia to understanding how we fail to manifest the autonomy we seemingly hold.
 
@@ -18,7 +18,7 @@ Bafflingly he was able to amass groups of seemingly well-adjusted individuals to
 
 As commendable it is for a man from lowly Indiana to acquire the resources to complete such a feat: building an almost 1000-person commune in Guyana. I’m more intrigued by the idea that hundreds saw no warning signs, or red flags, and decided it was a good idea or at least ignored all the bad signals.
 
-<h4><b>Epistemological Individualism<b></h4>
+<h4><b>Epistemological Individualism</b></h4>
 
 Although I wouldn’t put the majority of situations where one would find themselves succumbing to groupthink as extreme or fatal as the aforementioned example. Many times our inability to develop and maintain our epistemological individualism leaves us in a state of vulnerability, unidentifiable to ourselves.
 

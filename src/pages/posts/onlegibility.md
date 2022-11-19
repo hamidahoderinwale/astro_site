@@ -9,7 +9,6 @@ layout: ../../layouts/Layout.astro
 
 I’m really disappointed that being a student was a personal means to an end before it looked like a worthwhile journey on its own – learning that is. Although I’m relatively young, I’m somewhat disappointed that I didn’t reach this resolution sooner. At a point where my brain was more malleable. My environment was more conducive to learning weird topics in disparate fields. At a time before the transactional benefit of “contributing to society” felt so totalizing. 
 
-
 I was tempted to plan my future degree to a T, optimizing my credit hours. Efficiency so I could spend the latter half of my four years in interviews and tailoring my resume for jobs. Doing classes in my first year that I knew I could do well in, with content covering work in research that I already have experience supporting; so, that I can finesse a really great research internship. So I can get into a really good graduate school program. So that I could do something?
 
 Ultimately, I don’t hold this notion of planning, optimizing, and scheduling to be appealing anymore. Learning as a virtue seems valuable enough, that working towards this aim, with a career being instrumental seems worthwhile. 

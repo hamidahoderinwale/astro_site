@@ -1,15 +1,49 @@
 ---
+import Layout from "../layouts/Layout.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Hamidah's Site</h1>
-	</body>
-</html>
+<Layout title="About Me">
+	<a
+		style="padding-top: 1px; "
+		href="https://www.linkedin.com/in/hamidaho/?originalSubdomain=cas"
+		onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+	>
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
+			alt=""
+			width="20"
+			height="20"
+		/>
+	</a>
+	<br />
+	<br />
+	<a href="/"> Home</a>
+	<br />
+	<a href="/blog/"> Blog</a>
+
+	<h1>Hey 👋🏿</h1>
+	<p>
+		<div class="one" style="color: ; margin-bottom: 8px;">
+			My name's Hamidah [ham-ee-dah]. Welcome to my site!
+		</div>
+
+		<p>- - -</p>
+
+		<h3>An incomplete list of things I find interesting...</h3>
+		<ul>
+			<li>Supporting human agency</li>
+			<li>
+				Group-decision making (why are we so bad at collective action?)
+			</li>
+			<li>Supporting academic rigor in the social sciences</li>
+			<li><a href="/blog/">Writing.</a></li>
+		</ul>
+
+		<!-- socials -->
+	</p>
+
+	<br />
+	<div class="parent">
+		<div class="child"><p>oderinwaleh[at]gmail[dot]com</p></div>
+	</div>
+</Layout>

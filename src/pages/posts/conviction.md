@@ -4,7 +4,7 @@ layout: ../../layouts/Layout.astro
 ---
 
 <h2>Conviction</h2>
-<p><i>September 5, 2022</i></p>
+<p><i>July 2022</i></p>
 
 I feel like I have very little conviction, but I do feel like I have some sense of agency (the ability to be independent and make decisions for myself). These things are not mutually exclusive. <b> Conviction requires that you remain persistent in the manifestation of your beliefs despite contradiction.</b> I’ve had little contradiction because I tend to not share my plans, ideas or thoughts. I’m sure that if I did, I would have more lash back, but I don’t. I kind of just do things and people accept them? Is this because I refuse to have conviction and choose to travel easier paths or maybe people just don’t care as long as it doesn’t interfere with their lives too much (which is something I keep in mind before making decisions)?
 

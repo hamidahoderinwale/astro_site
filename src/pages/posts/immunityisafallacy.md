@@ -4,7 +4,7 @@ layout: ../../layouts/Layout.astro
 ---
 
 <h2>Immunity is a Fallacy: Groupthink and Cults</h2>
-<p><i>September 5, 2022</i></p>
+<p><i>August 2022</i></p>
 
 Cults are really interesting. Aside from the memetic cautionary tale of “not drinking the Kool-Aid”, generally learning about the nuances of the most notable of cults has helped me idealize how the most (seemingly) well-adjusted, well-respected and well-off of society can end up in situations, doing things that are completely contrary to what beneficially contributes to the human state all as a result of being in a group?
 

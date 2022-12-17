@@ -4,7 +4,7 @@ layout: ../../layouts/Layout.astro
 ---
 
 <h2>Digital Networking for Dummies</h2>
-<p><i>October 12, 2020</i></p>
+<p><i>July 2022</i></p>
 
 If you’re in high school or even younger, reaching out to people on the internet is one of the highest ROI things you can do. It doesn’t take a lot of time, can lead to cool opportunities, and allows you to build your network with intention.
 

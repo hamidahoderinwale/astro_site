@@ -23,6 +23,12 @@ Nonetheless, it is plausible to have empirical claims about government actors' q
 Despite this, individuals tend not to apply the harm principle in their decision-making. The harm principle established by John Stuart Mill represents benefiting the greater good versus an individual and how resources are distributed to express that. Consider the allegation that not getting vaccinated causes harm to others because not getting vaccinated diverts limited medical resources and staff to care for people who could have avoided their illness and are now decreasing accessibility to people in desperate need of medical services with no other options and limited opportunity for presentation. Considering the downsides of getting inoculated are time and minimal risks of harmful side effects, there is a much greater opportunity to reduce suffering for others and the individual by getting vaccinated.
 
 In conclusion, public health policy aims to achieve optimal mutual gain; thus, the weight of the liberty of the minority is arguably lower than the health of the majority. Especially considering vaccines, wearing masks and other interventions are both cost-effective and relatively low-risk to the people who abide by them. Moreover, by lowering epidemiological risk, hospital systems are less strained, resources can be more effectively allocated, and hospital workers are less susceptible to medical error. All in all, political institutions with strategies that are based on rational decision-making are better fit to make high-utility decisions that promote wellbeing and ought to do so even if it means curtailing free will. 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 **Notes**
 

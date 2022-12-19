@@ -3,7 +3,7 @@ title: "Rustlings...Ending Chapters"
 layout: ../../layouts/Layout.astro
 ---
 
-<h2>"Rustlings...Ending Chapters</h2>
+<h2>Rustlings...Ending Chapters</h2>
 <p><i>December 18, 2022</i></p>
 
 It’s finally set in that high school is coming to a close. The past (almost) four years have been ones of turbulence. High variance in experience, but pretty great nonetheless. It’s safe to say that I wouldn’t change much. From a near-kidnapping experience in LA to seriously considering consciousness research as a career path - I’ve come out of high school with a diploma and a will to dedicate my time to experience it all: it may be cliche, but I want to experience the good and the bad, and the ugly. 

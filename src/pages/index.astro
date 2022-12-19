@@ -5,10 +5,7 @@ import Layout from "../layouts/Layout.astro";
 <Layout title="About Me">
 	<!--links  -->
 
-	
-
 	<div style="max-width: 65ch;">
-		
 		<h1 style="color: #E16036; font-size: 3em; margin-bottom: 10px;">
 			Hey there! <span
 				><img
@@ -23,16 +20,27 @@ import Layout from "../layouts/Layout.astro";
 				<p>I'm Hamidah [ham-ee-dah].</p>
 			</div>
 
+			<input
+				class="spoilerbutton"
+				type="button"
+				value="Show"
+				onclick="this.value=this.value=='Show'?'Click for a Musing':'Show';"
+			/>
+			2
+			<div class="spoiler">
+				<div>Qualia and Meaning are Mutualist. My meaning has yet to be found. Hamidah's Qualia should be questioned.  </div>
+			</div>
+
 			<p>------</p>
-				<a href="/blog/">Writing.</a>
-			<br>
-		
+			<a href="/blog/">Writing.</a>
+			<br />
 
 			<!-- socials -->
 		</p>
 
-		<a href="https://www.hsopportunities.com/" target="_blank">Opportunities Dashboard</a>
-		
+		<a href="https://www.hsopportunities.com/" target="_blank"
+			>Opportunities Dashboard</a
+		>
 
 		<a><p style="color: #E16036">oderinwaleh[at]gmail[dot]com</p></a>
 	</div>

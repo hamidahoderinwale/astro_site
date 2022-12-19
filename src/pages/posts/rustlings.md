@@ -6,7 +6,7 @@ layout: ../../layouts/Layout.astro
 <h2>Rustlings...Ending Chapters</h2>
 <p><i>December 18, 2022</i></p>
 
-It’s finally set in that high school is coming to a close. The past (almost) four years have been ones of turbulence. High variance in experience, but pretty great nonetheless. It’s safe to say that I wouldn’t change much. From a near-kidnapping experience in LA to seriously considering consciousness research as a career path - I’ve come out of high school with a diploma and a will to dedicate my time to experience it all: it may be cliche, but I want to experience the good and the bad, and the ugly. 
+It’s finally set in that high school is coming to a close. The past (almost) four years have been ones of turbulence. High variance in experience, but pretty great nonetheless. It’s safe to say that I wouldn’t change much. From a near-kidnapping experience in LA to seriously considering consciousness research as a career path - I’ve come out of high school with a diploma and a will to dedicate my time to experiencing it all: it may be cliché, but, the good, the bad, and the ugly. 
 
 I started my Grade 9 year with a near buzz cut and a good 40 pounds heavier than I am now. I attended a Catholic french-immersion public secondary school and started in September 2019. Attending a Catholic school (not being Catholic)  and learning the Hail Mary to recite after O’Canada was fun in itself.  I didn’t have my sights set on anything in particular and definitely wasn’t optimizing for college admissions like some of my friend's states-side were. Generally, I was trying to get good grades, save money for college and see what high school had to offer. 
 

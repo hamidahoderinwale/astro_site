@@ -30,7 +30,7 @@ In the Western World, attendance at top universities is a medium-low variance wa
 
 However, Nigeria’s higher education system has glaring flaws and does not have the infrastructure to identify and support the extraordinary.
 
-<img src="/Users/hamidahoderinwale/Downloads/povertytrap.png" style="width:100%; height:auto">
+<img src="https://lh3.googleusercontent.com/cO30t-tdQHCIasmRYic-UXW6-CHs0bA9W5ScBqW41RO-7_48J42M33ejjGDtMLAP6fjd6KHrXNiF9U4MYSdAq3-cggbgYbNfGxdWEJPVMmWm-uSMa8V5c7XXQRqaPqe9LxL4hYB2wSguy0JeMuNN6NWSJPOVgbqE6VWUTwRY4vheaq7Z9aLUoDlsB9vakQ" style="width:100%; height:auto">
 
 [Banerjee and Duflo, 2011](https://www.researchgate.net/figure/The-S-Shaped-Curve-and-the-Poverty-Trap-Source-Banerjee-and-Duflo-2011_fig5_335734566)
 

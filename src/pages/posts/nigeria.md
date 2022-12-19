@@ -74,6 +74,17 @@ Generally, the landscape is barren and fertile, and there seems to be much oppor
 
 I’m thinking more about this through [Better Trajectories. ](http://bettertrajectories.org/)(site has not been updated)
 
+**Further Readings**
+
+<ul>
+    <li>Stears on High Unemployment Rates Among Nigerian Bachelor Degree Holders: https://www.stears.co/article/nigerias-youth-unemployment-problem/
+</li>
+    <li>Africa's Latent Assets (NBER): https://www.stears.co/article/nigerias-youth-unemployment-problem/
+</li>
+<li> Chris Quintero at Stack Shift on Entrepreneurship, Grit and Labor: https://chrisquintero.com/
+</li>
+</ul>
+
   
   
   

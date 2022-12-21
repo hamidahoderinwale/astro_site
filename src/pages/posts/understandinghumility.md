@@ -14,7 +14,7 @@ They come up to me, and as the normally-functioning being they are, they say “
 
 New to the office, and as an individual with relative human decency, I have to introduce myself. So I begin spewing the most convoluted set of phrases this person likely has ever heard. 
 
-For someone, if I had to try and explain what I was thinking while saying this nonsense, it probably was along the lines of “Don’t mention specifics because what if she works in the same field as me? They’ll start asking me questions…then I’ll sound dumb”, “Name-drop institutions and basic functions and they’ll go along their way ” and “don’t just name-drop because no one cares and no one likes a humble bragger”. 
+For someone, if I had to try and explain what I was thinking while saying this nonsense, it probably was along the lines of “Don’t mention specifics because what if she works in the same field as me? They’ll start asking me questions…then I’ll sound dumb”, “Name-drop institutions and basic functions and they’ll go along their way” and “don’t just name-drop because no one cares and no one likes a humble bragger”. 
 
 Not-so-inexplicably, my efforts to “be (intrinsically) humble” came across, and they very candidly explained that “being humble” which I assume they meant in an extrinsic fashion wouldn’t get me very far in life. 
 

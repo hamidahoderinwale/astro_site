@@ -32,13 +32,13 @@ In conclusion, public health policy aims to achieve optimal mutual gain; thus, t
 **Notes**
 
 <ul>
-    <li>http://dx.doi.org/10.5040/9781474240062.ch-005
+    <li><a href="http://dx.doi.org/10.5040/9781474240062.ch-005"> Common Goods and Public Goods. In Global Ethics and Global Common Goods (pp. 61–82).</a>
 </li>
     <li>
-https://plato.stanford.edu/entries/mill-moral-political/
+<a href="https://plato.stanford.edu/entries/mill-moral-political/">Mill’s Moral and Political Philosophy</a>
 </li>
 <li>
-https://doi.org/10.1136/bmj.m4049 
+<a href="https://doi.org/10.1136/bmj.m4049"> Social justice as a foundation for democracy and health BMJ 2020</a>
 </li>
 </ul>
 

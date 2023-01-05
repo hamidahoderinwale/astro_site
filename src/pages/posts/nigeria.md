@@ -52,7 +52,7 @@ However, despite the growth in the number of institutions, the quality of higher
 With the newness of many institutions, the prestige of the top institutions can still be tied to their age, but generally, talent is sorted all across the country at schools of varying competitiveness as competition to get into top schools is not especially rigorous. A lack of research and infrastructure means that none of the institutions in the country can necessarily consider them word-class both locally and globally. 
 
 
-<h3>Interventions for Higher Education<h3>
+<h3>Interventions for Higher Education</h3>
 
 In looking towards interventions, it makes sense to encourage the displacement of students to other countries for their post-secondary education or look at alternative models of education, ideally ones that can fill gaps within industries that are human capital constrained: to support the productivity of tail-end talent and support socio-economic improvement for the majority of the youth population. 
 
@@ -77,7 +77,7 @@ I’m thinking more about this through [Better Trajectories. ](http://bettertraj
 **Further Readings**
 
 <ul>
-    <li><a href="https://www.stears.co/article/nigerias-youth-unemployment-problem">>Stears on High Unemployment Rates Among Nigerian Bachelor Degree Holders</a>
+    <li><a href="https://www.stears.co/article/nigerias-youth-unemployment-problem">Stears on High Unemployment Rates Among Nigerian Bachelor Degree Holders</a>
 </li>
     <li><a href="https://www.stears.co/article/nigerias-youth-unemployment-problem/
 ">Africa's Latent Assets (NBER)</a></li>

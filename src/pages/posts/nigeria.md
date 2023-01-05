@@ -70,7 +70,7 @@ However, there are still faults, as although you can rest assured that the major
 
 <h3>Final Notes</h3>
 
-Generally, the landscape is barren and fertile, and there seems to be much opportunity for (careful) experimentation. Learning more about the current context seems valuable and successful pilots would likey be boosted overall interest, which is presently quite low, at least for the secondary school-age demographic. 
+Generally, the landscape is both empty and fertile, and there seems to be much opportunity for (careful) experimentation. Learning more about the current context seems valuable and successful pilots would likey be boosted overall interest, which is presently quite low, at least for the secondary school-age demographic. 
 
 I’m thinking more about this through [Better Trajectories. ](http://bettertrajectories.org/)(site has not been updated)
 

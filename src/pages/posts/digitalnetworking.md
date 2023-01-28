@@ -1,5 +1,5 @@
 ---
-title: "Conviction"
+title: "Digital Networking for Dummies"
 layout: ../../layouts/Layout.astro
 ---
 

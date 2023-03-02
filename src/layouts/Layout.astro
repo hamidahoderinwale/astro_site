@@ -31,7 +31,9 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Unbounded:wght@400;500&display=swap" rel="stylesheet">
         <title>{title}</title>
 
         
@@ -60,6 +62,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
         word-spacing: 0.23vw;
         font-size: 16px;
         background: #2E4756;
+        color: #F5F5F5;
     }
 
     .front-page {
@@ -85,7 +88,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
         margin: 5px 0;
         align-items: center;
         background-clip: padding-box;
-        background-color: #357DED;
+        background-color: #F58F00;
         border: 1px solid transparent;
         border-radius: 0.25rem;
         box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
@@ -93,7 +96,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
         color: #fff;
         cursor: pointer;
         display: inline-flex;
-        font-family: "Chakra Petch", sans-serif;
+        font-family:  "Crimson Text", sans-serif;
         font-size: 16px;
         font-weight: 600;
         justify-content: center;

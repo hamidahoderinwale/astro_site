@@ -1,15 +1,11 @@
 ---
-title: "beautifulthings"
+title: "When Humans Can No Longer Excel, Let the Beautiful Prevail"
 layout: ../../layouts/Layout.astro
 ---
 
 <h2>When Humans Can No Longer Excel, Let the Beautiful Prevail.</h2>
 <p><i>April 2023</i></p>
 
-When Humans Can No Longer Excel, Let the Beautiful Prevail.
-===========================================================
-
-When Humans Can No Longer Excel, Let the Beautiful Prevail.
 1
 
 The Bible, Torah and the Qu’ran vividly describe heaven and hell. Those who read them are met with intense renditions of dystopia and utopia through the Abrahamic lens. These narratives attempt to describe the otherworldly.

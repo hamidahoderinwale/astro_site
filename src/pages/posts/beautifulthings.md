@@ -6,8 +6,6 @@ layout: ../../layouts/Layout.astro
 <h2>When Humans Can No Longer Excel, Let the Beautiful Prevail.</h2>
 <p><i>April 2023</i></p>
 
-1
-
 The Bible, Torah and the Qu’ran vividly describe heaven and hell. Those who read them are met with intense renditions of dystopia and utopia through the Abrahamic lens. These narratives attempt to describe the otherworldly.
 
 To this day, disciples devote themselves to repentance and obedience in the hope of experiencing the so-called beauty of heaven, while guilt haunts those who fear their sins may lead them to hell. Theistic texts are powerful in persuading and guiding action, almost paternalistically. Leopold Aschenbrenner seems to have similar takes, describing religious texts as having “very low discount rates”[1]. In this context, "discount rates" refers to the idea that the level of relevance remains stable over time.
@@ -20,9 +18,10 @@ As a relatively humanities-oriented person, what do I do in the face of potentia
 
 I once strongly considered being a humanities major, but today it seems naive to, at the very least, not do something technical as a double major. This consensus seems to have been reached by many college students choosing not to take on a humanities major.
 
+![David Mourning the Death of His Child |ClipArt ETC ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fetc.usf.edu%2Fclipart%2F67600%2F67658%2F67658_davids_child.htm&psig=AOvVaw1UhS0JGbh7oGIv8KE0i3If&ust=1680902336908000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC72aeXlv4CFQAAAAAdAAAAABAI)
 [2]
 
-2
+---
 
 I try to be “useful” in the age of LLMs. LLMs that, in minutes, write an essay worthy of a higher grade than the one that took me hours. What do I do? Perhaps I should wallow in doom, rooted in the idea that in the future, my sense of purpose may not be attached to what I produce. Human creation is no longer unique. It’s no longer rare, and maybe we head into the future, where said output is now unoriginal, worse off than the computer-generated replacement. Then what?
 
@@ -76,7 +75,7 @@ When I was younger, I could throw myself into reading a novel picked off the she
 
 What was the point? Too many things to do; they’re just ancient pieces that “withstood” the test of time to satisfy pretentious people whose egos won’t let them admit that they’re boring. After a period of instrumental consumption of the “great works,” from Chopin for French class to Orwell for English class, I guess something changed.
 
-3
+---
 
 Recently, I attended the Emergent Ventures unconference [5] (which was amazing, by the way!). In true unconference fashion, the organizer had nothing pre-planned, and it was up to the participants to initiate sessions.
 
@@ -106,6 +105,8 @@ Sir James Jeans - the physicist writing prose? I thought back to reading a bit o
 I was trying to think more about this - an ability to deal with abstract concepts on the theoretical ends of the field and the objective in the quantitative methods used for the language of the discipline. It’s probably an internal thing, where the pursuit of understanding complexity and contextualizing the world's rules, in a very rudimentary sense, is the building of a narrative - an ability to articulate utopia.
 
 If you look at this chart which charts the math and verbal scores on the GRE by academic discipline, you’ll see that physicists seem to do really well on both axes.
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Femilkirkegaard.dk%2Fen%2F2012%2F01%2Fiq-verbal-and-math-per-university-disiplin%2F&psig=AOvVaw2pR_3KFHZMnGrU69omb0_v&ust=1680902408323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiJsMmXlv4CFQAAAAAdAAAAABAJ)
 
 [10]
 

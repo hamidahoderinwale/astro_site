@@ -18,7 +18,9 @@ As a relatively humanities-oriented person, what do I do in the face of potentia
 
 I once strongly considered being a humanities major, but today it seems naive to, at the very least, not do something technical as a double major. This consensus seems to have been reached by many college students choosing not to take on a humanities major.
 
-![David Mourning the Death of His Child |ClipArt ETC ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fetc.usf.edu%2Fclipart%2F67600%2F67658%2F67658_davids_child.htm&psig=AOvVaw1UhS0JGbh7oGIv8KE0i3If&ust=1680902336908000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC72aeXlv4CFQAAAAAdAAAAABAI)
+### ![David Mourning the Death of His Child |ClipArt ETC ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fetc.usf.edu%2Fclipart%2F67600%2F67658%2F67658_davids_child.htm&psig=AOvVaw1UhS0JGbh7oGIv8KE0i3If&ust=1680902336908000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC72aeXlv4CFQAAAAAdAAAAABAI)###
+
+
 [2]
 
 ---

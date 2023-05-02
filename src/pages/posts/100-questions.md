@@ -90,7 +90,7 @@ For the SPARC 23 application, one of the prompts asked applicants to generate a 
 80. How does one stop writing with happy endings?
 81. What are the greater, more universal dynamics that led The Fréchet Distribution to be the exact reciprocal of the Weibull-like distribution in the same year, despite being developed independently?
 82. Can someone explain to me why ancient classical pieces that “withstood” the test of time aren’t just to satisfy pretentious people whose egos won’t let them admit that they’re boring?
-83. What are the biggest ways that I can change my mine right now based on my current set of beliefs (premise: I don’t think I have super strong takes on most things)?
+83. What are the biggest ways that I can change my mind right now based on my current set of beliefs (premise: I don’t think I have super strong takes on most things)?
 84. What are some productive arguments that I could have now that would make me change my mind the most?
 85. Should I pursue the carnivore diet?
 86. What is the best argument for why selfishness is always self-defeating?

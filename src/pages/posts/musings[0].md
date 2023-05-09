@@ -1,5 +1,5 @@
 ---
-title: "[0] Musings: I cried listening to a song the other day "
+title: "[0]Musings"
 layout: ../../layouts/Layout.astro
 ---
 

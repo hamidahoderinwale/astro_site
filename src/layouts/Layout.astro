@@ -31,9 +31,7 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100;0,300;0,400;0,500;1,100;1,800&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
     </head>
     <body>
         <a href="/"> Home</a>
@@ -46,4 +44,54 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 </html>
 
 <style is:global>
+
+<!--
+
+    a:link {
+  color: #577399;
+}
+
+a:visited {
+  color: #4A6182;
+}
+
+/* mouse over link */
+a:hover {
+  color: #577399;
+}
+
+/* selected link */
+a:active {
+  color: #577399;
+}
+
+h1 {
+        color: #F5F5F5;
+    }x
+
+
+    h2 {
+        color: #F5F5F5;
+    }
+    
+    img.animated-gif{
+  width: 85px;
+  height: auto;
+  padding-top: 4px; 
+}
+
+
+    body {
+      font-family: 'Nanum Myeongjo', serif;
+        max-width: 55ch;
+        margin: 45px 48px;
+        line-height: 1.5;
+        letter-spacing: 0.12em;
+        font-size: 16px;
+        background: #E3E3F3;
+        color: #181925;
+    }
+
+ 
+
 </style>

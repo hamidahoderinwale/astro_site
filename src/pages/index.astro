@@ -9,9 +9,33 @@ import Layout from "../layouts/Layout.astro";
 	<link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
 	<!--links  -->
 
+	<script>
+	var theText = new Array() // do not change this
+ 
+ 
+		theText[0] = 'A bonis ad meliora';
+		theText[1] = 'Vanitas vanitatum, et omnia vanitas';
+		theText[2] = 'Memores boni consili';
+		 
+		// do not edit anything below this line
+		 
+		var j = 0
+		var p = theText.length;
+		var preBuffer = new Array()
+		for (i = 0; i < p; i++){
+		   preBuffer[i] = new Array()
+		   preBuffer[i].src = theText[i]
+		}
+		var whichText = Math.round(Math.random()*(p-1));
+		function showText(){
+		//This a wrapper for the text array it can be changed if need
+		document.write('<p class="thetext">'+theText[whichText]+'</p>');
+		}
+
+		</script>
 	<div style="max-width: 65ch;">
 		<br>
-			<h2 style="margin-bottom: 10px; font-family: 'Nanum Myeongjo', serif; color: #577399; sans-serif; font-weight: 500;"> Vanitas vanitatum, et omnia vanitas  </h2></div>
+			<h2 style="margin-bottom: 10px; font-family: 'Nanum Myeongjo', serif; color: #577399; sans-serif; font-weight: 500;" onload=showText();> Vanitas vanitatum, et omnia vanitas  </h2></div>
 		
 			<div class="one" style="margin-bottom: 8px;">
 				<div>

@@ -107,5 +107,5 @@ For the SPARC 23 application, one of the prompts asked applicants to generate a 
 97. Could suicide helplines be reasonably replaced with Chatbot systems with audio functionality? Could ethical experiments be done?
 98. Will we ever form a coherent model for how consciousness works (solving the “Hard” problem specifically?)
 99. Was answering these questions a waste of time?
-100. Is the precautionary principle, namely seen in France been a bad thing? How do we apply these insights to thinking about emerging technologies on the global scale?
+100. Is the precautionary principle, as seen in France, a bad thing? What post-mortem (lol) insights do we apply to emerging tech?
 

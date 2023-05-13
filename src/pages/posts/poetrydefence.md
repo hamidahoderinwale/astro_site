@@ -85,7 +85,9 @@ but yeah, a lot of people hate on buildings like this. i mean i can’t exactly 
 
 > TC: Yes, to go back to look at brutalist buildings, pictures of them, read books on brutalism. I love brutalism. And if that can make sense to you, you then have an open carte blanche, like to every other idea out there, and my thinking on this question has really moved away from, well here’s some particular thing. I’m more meta. Maybe more like robin Hanson. Here’s the way to open all the doors for you and I more and more think its tough issues in aesthetics are what people should study. Styles they don’t love. Learn how to love them. If you think its crap you’re wrong.
 
-so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. obviously critical thinking is important, but why the fancy term?
+so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. 
+
+obviously critical thinking is important, but why the fancy term?
 
 naivete in many ways is falling for what is presented in front of you without questioning it further, but of course, straussianism is more than that.
 
@@ -102,7 +104,7 @@ are not due to chance, but that the author used a given ambiguous
 expression deliberately, or that he constructed a certain sentence
 badly on purpose
 
-it has some condescending tones, bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. hmmmm….sounds familiar 
+it has some condescending tones, bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. sounds familiar rip
 
 i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through Marginal Revolutions, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
 

@@ -130,7 +130,7 @@ i’ll preface that most of this is coming from a place of teenage angst, but li
 
 it exists, but it’s not our mainstream.
 
-sure, we have schools where we actually read orwell's animal farm (sorry Lex), but North American high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means you're better off feeding prompts into Chat-GPT, tweaking your work to avoid getting caught by detectors, and attending yet another club meeting to pad your resume. gameable.
+sure, we have schools where we actually read orwell's animal farm (sorry Lex), but north american high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means you're better off feeding prompts into Chat-GPT, tweaking your work to avoid getting caught by detectors, and attending yet another club meeting to pad your resume. gameable.
 
 i'm looking at your ethos - genuine or not. get me onboard. articulate your theory of change in such a way that I feel like I have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that I have no choice but to take the actions you want me to take. my agency still feels like my own because you write about the world in such a gloomy way that I have to act, or else I'm the problem.
 

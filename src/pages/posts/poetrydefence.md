@@ -57,7 +57,7 @@ the eaforum has “norms”: esotericity, TLDRs, and academic-esque writing. the
 
 so this person is writing this thing about how people shouldn’t glorify authority, glorify peers, how you shouldn’t glorify yourself even when you’re on the righteous path. they recount anecdotes, they’re candid and bring themselves into the conversation. it’s really well-written. i really like it. at the mercy of emotionlessness and a different style of writing, i think there’s ways in which this could have been not as good. but it was good.
 
-it seems like advice in absence of *****you,***** is really hard to digest, it feels teachery and has me questioning “what gave you the right?“
+it seems like advice in absence of *you,* is really hard to digest, it feels teachery and has me questioning “what gave you the right?“
 
 now, i think to myself.  
 

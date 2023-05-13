@@ -21,7 +21,7 @@ perce was a man of logic and reason, but somewhere along the way, he said hasta 
 
 mary and perce were like this romantic power couple. romantic in the literal sense because they seemed pretty damn in love. my only evidence of their actual love being that they actually stayed together, and he didn’t kill her by holding her head underwater. maybe his whole intellectual change was an independent endeavor, but i like to think he fell in love with mary and some of her beliefs when they got hitched.
 
-he goes from this strong conviction for rhyme and reason to being known as that old, white, british guy that put individualism, the beautiful and prose above (almost) else
+he goes from this strong conviction for rhyme and reason to being known as that old, white, british guy that put individualism, the beautiful and prose above (almost all) else
 
 wikipedia acknowledges this man as a “romantic luminary” and i hesitatingly agree because the essay was so. damn. good.
 

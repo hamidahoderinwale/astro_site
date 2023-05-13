@@ -15,7 +15,7 @@ the following are some ramblings on instrumental knowledge, aesthetic appreciati
 
 ### mr. perce shelley
 
-earlier this week i read *[a fefence of poetry](https://www.poetryfoundation.org/articles/69388/a-defence-of-poetry)* by perce shelley. shelley was an interesting man. his vindication for atheism got him expelled at oxford. he then married his first wife - harriet westbook - when she was only 16. harriet would die five years later in a drowning accident, but shelley wasted no time finding another partner. the same year harriet died, he would get hitched to mary shelley (born mary goodwin). mary is quite the notable woman, writing *frakenstein* and the modern prometheus - key works of the romantic era.
+earlier this week i read *[a defence of poetry](https://www.poetryfoundation.org/articles/69388/a-defence-of-poetry)* by perce shelley. shelley was an interesting man. his vindication for atheism got him expelled at oxford. he then married his first wife - harriet westbook - when she was only 16. harriet would die five years later in a drowning accident, but shelley wasted no time finding another partner. the same year harriet died, he would get hitched to mary shelley (born mary goodwin). mary is quite the notable woman, writing *frakenstein* and the modern prometheus - key works of the romantic era.
 
 perce was a man of logic and reason, but somewhere along the way, he said hasta luego to his rationalist beginnings for romantic scholarship. 
 

@@ -87,7 +87,7 @@ but yeah, a lot of people hate on buildings like this. i mean i can’t exactly 
 
 so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. i mean this makes sense or why it’s important at least. naivete in many ways is falling for what is presented in front of you without questioning it further, but of course, straussianism is more than that.
 
-in *persecution and the art of writing* - a book written by leo strauss, the namesake and originator of the ideology - he argues that intellectual independence in a governed society can only be achieved through subtle messaging in otherwise heterodoxical works. you have to play this game of appeasing your true reader while maintaining plausible deniability with those who would disagree. to the extent that i have my own political philosophy, i think this is fine for reasons that he spells out.
+in [*persecution and the art of writing*](https://www.jstor.org/stable/40981803)- a book written by leo strauss, the namesake and originator of the ideology - he argues that intellectual independence in a governed society can only be achieved through subtle messaging in otherwise heterodoxical works. you have to play this game of appeasing your true reader while maintaining plausible deniability with those who would disagree. to the extent that i have my own political philosophy, i think this is fine for reasons that he spells out.
 
 > Another axiom, but one which is meaningful only so long as
 persecution remains within the bounds of legal procedure, is that

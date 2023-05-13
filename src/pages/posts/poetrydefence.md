@@ -67,7 +67,7 @@ you’re never objective. you don’t explain that the biggest reason for your b
 
 ### brutalist architecture and straussianism
 
-on to the next...aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
+onto the next. aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
 
 <img src="https://cdn.mos.cms.futurecdn.net/xEQUCv5DADy8qxuuQGetBK-1600-80.jpg.webp" width="300vw" height="200vh
 ">
@@ -152,7 +152,7 @@ but it was wholesome in that it tells you to scrap the advice all-together for s
 
 ---
 
-### i can’t write conclusions...
+### i can’t write conclusions
 
 future hamidah is the researcher she dreamt herself to be. the incentives of academia are pretty rubbish, but i get to write a paper! there’s some introspection to be done about what i actually want to accomplish with the work that i do. but on a more micro-level, it’s time to write a paper.
 

@@ -72,7 +72,7 @@ on to the next...aesthetics! perhaps i'm weird for liking brutalist architecture
 <img src="https://cdn.mos.cms.futurecdn.net/xEQUCv5DADy8qxuuQGetBK-1600-80.jpg.webp" width="300vw" height="200vh
 ">
 
-<figcaption>(Image credit: Christopher Stark. Design: Lane McNab Interiors)</figcaption>
+<caption>(Image credit: Christopher Stark. Design: Lane McNab Interiors)</caption>
 
 but yeah, a lot of people hate on buildings like this. i mean i can’t exactly blame them. brutalist exteriors are kinda mid. but, i don’t know, still pretty solid to me. anyways beauty is in the eyes of the beholder, yadda yadda.
 

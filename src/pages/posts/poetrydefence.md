@@ -144,7 +144,9 @@ the bible didn't suggest the physical axioms of the universe, but rather narrati
 
 ### think like the enlightened and write like a romantic
 
-so, in my confirmation of the romantic way of life being supreme, i still had to test both waters. i asked chatgpt to give me readings from both schools, and let me just say, i prefer the writing of the enlightened. or at least, it was much easier to read. Rousseau's Social Contract just tells me what to think. i have an image of man and the state in my mind, and he just brings them together in the way he sees fit. clear. cut. dry. but as always, there's more nuance. rousseau authored the famous "Confessions," where he would chronically overshare, telling his entire life story with little to spare. He broke the rules and would inspire poe, blake, and keats - romantics that would come after him. His life story was still clear-cut, but not dry. there was emotion with clarity. i appreciate it. there's nothing clear to take away from this beyond the fact that the lines between E and R aren't super clear, and i don't think they should be.
+so, in my confirmation of the romantic way of life being supreme, i still had to test both waters. i asked chatgpt to give me readings from both schools, and let me just say, i prefer the writing of the enlightened. or at least, it was much easier to read. Rousseau's Social Contract just tells me what to think. i have an image of man and the state in my mind, and he just brings them together in the way he sees fit. clear. cut. dry. but as always, there's more nuance. rousseau authored the famous *confessions,* where he would chronically overshare, telling his entire life story with little to spare. 
+
+he broke the rules and would inspire poe, blake, and keats - romantics that would come after him. his life story was still clear-cut, but not dry. there was emotion and clarity. i appreciate it. there's nothing much to take away from this beyond the fact that the lines between E and R aren't super clear, and i don't think they should be.
 
 *think like the enlightened, write like a romantic, and arguably live like one too.*
 

@@ -132,7 +132,7 @@ market forces work **most of the time,** right? an attractive sans-serif written
 
 anyways, i’m getting ahead of myself. like i said before, this isn’t bad, it’s just interesting but it draws at the point of genuine or not. get me on board.
 
-as a society, we’re past thought leaders, proposing athenian democracy in favour of oligarchy. instead we have tony robbins, suggesting i take advantage of my “unlimited power and awaken the giant within”
+as a society, we’re past thought leaders, proposing athenian democracy in favour of oligarchy. instead we have tony robbins, suggesting i take advantage of my “unlimited power and awaken the giant within”.
 
 i’ll preface that most of this is coming from a place of teenage angst, but like we've come so far??
 

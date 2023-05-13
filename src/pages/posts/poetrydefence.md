@@ -152,9 +152,9 @@ he broke the rules and would inspire poe, blake, and keats - romantics that woul
 
 there's a [paper](https://janfeld.weebly.com/uploads/1/1/8/9/118933153/writing_matters.pdf) that posits that, for academics, writing style matters. Experts were asked to judge the quality of papers written by economists. two versions of each paper were written: one edited by writing professionals for clarity and style, and the other left in its original state. Results showed that writing style actually mattered. the edited papers received better scores, scores that were 0.6 standard deviations higher than the non-edited ones. it's interesting because the papers weren't being scored by writing fanatics or even the general public; they were scored by those interested in the content and research, and yet they chose the ones that sounded prettier.
 
-On a more macro-level, GMU is not an R-1 institution. They happen to be very, very good at public-facing communication, are accessible, and are education-focused. As an institution, they've valued the general public over Econometrica.
+on a more macro-level, george mason university is not an r-1 institution. they happen to be very, very good at public-facing communication, are accessible, and are education-focused. they're successful because of it. as an institution, they've valued the general public over econometrica and it paid off.
 
-like Strauss, i don't think rigor and resulting austerity should be avoided, but your motivations become questionable when the subjects of your work aren't able to understand what it's about.
+like strauss, i don't think rigor and resulting austerity should be avoided, but your motivations become questionable when the subjects of your work aren't able to understand what it's about.
 
 but with inaccessibility, you close yourself off to criticism. [marginal revolution's](https://marginalrevolution.com/) comment section is often an example of why maybe this isn't always a bad thing, but there's a balance here.
 

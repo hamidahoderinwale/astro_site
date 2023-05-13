@@ -27,7 +27,7 @@ wikipedia acknowledges this man as a “romantic luminary” and i hesitatingly 
 
 it makes me want to fill my journal with writing that would make landon smile and hemingway cry. 
 
-still, i remain skeptical of the claim, that poets have, should, or even had the societal pull shelley suggests. 
+still, i remain skeptical of the premise, that poets have, should, or even had the societal pull shelley suggests. 
 
 > All things exist as they are perceived: at least in relation to the percipient. “The mind is its own place, and of itself can make a heaven of hell, a hell of heaven.” But poetry defeats the curse which binds us to be subjected to the accident of surrounding impressions. And whether it spreads its own figured curtain, or withdraws life’s dark veil from before the scene of things, it equally creates for us a being within our being. It makes us the inhabitants of a world to which the familiar world is a chaos. It reproduces the common universe of which we are portions and percipients, and it purges from our inward sight the film of familiarity which obscures from us the wonder of our being. It compels us to feel that which we perceive, and to imagine that which we know. It creates anew the universe, after it has been annihilated in our minds by the recurrence of impressions blunted by reiteration. It justifies the bold and true words of Tasso—“Non merita nome di creatore, se non Iddio ed il Poeta” [none but God and the poet deserve the name of Creator—ed.].
 

@@ -61,7 +61,7 @@ it seems like advice in absence of *****you,***** is really hard to digest, it f
 
 now, i think to myself.  
 
-you’re never objective. you don’t explain that the biggest reason for your belief is because you went through something specific. you can’t make sound arguments without a premise and sometimes the premise is your experience. i opt for incoherence because i don’t want to share.  i guess that’s okay. it’s a choice i make. it’s a choice i’m not always sure is the right one.
+you’re never objective. you don’t explain that the biggest reason for your belief is because you went through something specific. you can’t make sound arguments without a premise and sometimes the premise is your experience. i opt for incoherence because i don’t want to share.  i guess that’s okay. it’s a choice i make. but it’s a choice i’m not always sure is right.
 
 ---
 

@@ -1,0 +1,165 @@
+---
+title: "100 Questions"
+layout: ../../layouts/Layout.astro
+---
+
+
+<h2> in defence of poetry </h2>
+<p><i>May 13, 2023</i></p>
+
+i’ll preface by saying it’s very fun going down rabbitholes with no clear end goal in-mind. another day, another binge-googling of the romantic era, expression and brutalist architecture.
+
+the following are some ramblings on instrumental knowledge, aesthetic appreciation, straussian readings, the enlightened, the romantics, with many, many tangeants.
+
+---
+
+### mr. perce shelley
+
+earlier this week i read *[A Defence of Poetry](https://www.poetryfoundation.org/articles/69388/a-defence-of-poetry)* by perce shelley. shelley was an interesting man. his vindication for atheism got him expelled at oxford. he then married his first wife - harriet westbook - when she was only 16. harriet would die five years later in a drowning accident, but shelley wasted no time finding another partner. the same year harriet died, he would get hitched to mary shelley (born mary goodwin). mary is quite the notable woman, writing *frakenstein* and the modern prometheus - key works of the romantic era.
+
+perce was a man of logic and reason, but somewhere along the way, he said hasta luego to his rationalist beginnings for romantic scholarity. 
+
+mary and perce were like this romantic power couple. romantic in the literal sense because they seemed pretty damn in love. my only evidence of their actual love being that they actually stayed together, and he didn’t kill her by holding her head underwater. maybe his whole intellectual change was an independent endeavor, but i like to think he fell in love with mary and some of her beliefs when they got hitched.
+
+he goes from this strong conviction for rhyme and reason to being known as that old, white, british guy that put individualism, the beautiful and prose above (almost) else
+
+wikipedia acknowledges this man as a “romantic luminary” and i hesitatingly agree because the essay was so. damn. good.
+
+it makes me want to fill my journal with writing that would make landon smile and hemingway cry. 
+
+still, i’m skeptical of the plea that poets have this societal pull that he suggests.  
+
+All things exist as they are perceived: at least in relation to the percipient. “The mind is its own place, and of itself can make a heaven of hell, a hell of heaven.” But poetry defeats the curse which binds us to be subjected to the accident of surrounding impressions. And whether it spreads its own figured curtain, or withdraws life’s dark veil from before the scene of things, it equally creates for us a being within our being. It makes us the inhabitants of a world to which the familiar world is a chaos. It reproduces the common universe of which we are portions and percipients, and it purges from our inward sight the film of familiarity which obscures from us the wonder of our being. It compels us to feel that which we perceive, and to imagine that which we know. It creates anew the universe, after it has been annihilated in our minds by the recurrence of impressions blunted by reiteration. It justifies the bold and true words of Tasso—“Non merita nome di creatore, se non Iddio ed il Poeta” [none but God and the poet deserve the name of Creator—ed.].
+
+idk maybe i’m not buying into this as much as i should. i mean he did go from complete denial of the existence of a higher-power to referencing God as the creator. perhaps, it was only for artistic effect, but damn.
+
+he continues, stating:
+
+”A poet, as he is the author to others of the highest wisdom, pleasure, virtue, and glory, so he ought personally to be the happiest, the best, the wisest, and the most illustrious of men.” 
+
+he's  seems to be saying that you should make your human experience as rich as possible, so you can cater to those who are the most cultured. cute, but questionable.
+
+when shit hits the fan, I'll say something along the lines of "this is for the readers," insinuating that it's all for the plot, for my novel of course. a case for my own personal romanticism, making pain sublime. imagining you're the focus of a hypothetical pan-shot, makes looking through rain-covered windows becomes a little more lively.
+
+but once again, shelley is dealing with motivations that i’m finding  hard to grasp. i don’t think i care if i’m a creator, in the manner he presents it - a creator akin to god. it’s probably down right bad if i had that power, speak of it even being possible or true. 
+
+why should i care if my work is being read by the world’s most cultured. 
+
+why is *this* the medium you assume gives you all this influence.
+
+he’s just ***really*** into all of this. it’s beautiful though. 
+
+i suppose it only makes sense that he get his point across with (sometimes obnoxious) prose.
+
+on the subject of people we look up to. i think about this post called ***********************[on living without idols](https://forum.effectivealtruism.org/posts/jgspXC8GKA7RtxMRE/on-living-without-idols)*********************** that i read a while ago. the author starts of by acknowledging they were going to write the way *they* like, ignoring what’s expected.
+
+the eaforum has “norms”: esotericity, TLDRs, and academic-esque writing. they’re not mandates, but..umm…encouraged. 
+
+so this person is writing this thing about how people shouldn’t glorify authority, glorify peers, how you shouldn’t glorify yourself even when you’re on the righteous path. they recount anecdotes, they’re candid and bring themselves into the conversation. it’s really well-written. i really like it. at the mercy of emotionlessness and a different style of writing, i think there’s ways in which this could have been not as good. but it was good.
+
+it seems like advice in absence of *****you,***** is really hard to digest, it feels teachery and has me questioning “what gave you the right”. 
+
+now, i think to myself.  
+
+you’re never objective. you don’t explain that the biggest reason for your belief is because you went through something specific. you can’t make sound arguments without a premise and sometimes the premise is your experience. i opt for incoherence because i don’t want to share.  i guess that’s okay. it’s a choice i make. it’s a choice i’m not always sure is the right one.
+
+---
+
+### brutalist architecture and straussianism
+
+on to the next… aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
+
+![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](in%20defence%20of%20poetry%20cd70780ce3024f77b3a269f328295460/Untitled.png)
+
+(Image credit: Christopher Stark. Design: Lane McNab Interiors)
+
+but yeah, a lot of people hate on buildings like this. i mean i can’t exactly blame them. brutalist exteriors are kinda mid. but, i don’t know, still pretty solid to me. anyways beauty is in the eyes of the beholder, yadda yadda.
+
+![Untitled](in%20defence%20of%20poetry%20cd70780ce3024f77b3a269f328295460/Untitled%201.png)
+
+ anyways tyler cowen actually commented on this in a podcast interview.
+
+TC: What I recommend to people is to read books on the history of the visual arts and try to make sense of styles in the visual arts. Pretty much every style from the past that had some notoriety had something to it. Its beautiful or interesting. It may not be your favourite. Go back, try to make sense of that style. And it will be hard. And if you can do that for a style you don’t immediately love, I don’t mean read a book on Monet and look at water lily paintings.
+
+EK: How about brutalism. I’ve never understood that style.
+
+TC: Yes, to go back to look at brutalist buildings, pictures of them, read books on brutalism. I love brutalism. And if that can make sense to you, you then have an open carte blanche, like to every other idea out there, and my thinking on this question has really moved away from, well here’s some particular thing. I’m more meta. Maybe more like robin Hanson. Here’s the way to open all the doors for you and I more and more think its tough issues in aesthetics are what people should study. Styles they don’t love. Learn how to love them. If you think its crap you’re wrong.
+
+so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. i mean this makes sense or why it’s important at least. naivete in many ways is falling for what is presented in front of you without questioning it further, but of course, straussianism is more than that.
+
+in *persecution and the art of writing* - a book written by leo strauss, the namesake and originator of the ideology - he argues that intellectual independence in a governed society can only be achieved through subtle messaging in otherwise heterodoxical works. you have to play this game of appeasing your true reader while maintaining plausible deniability with those who would disagree. to the extent that i have my own political philosophy, i think this is fine for reasons that he spells out.
+
+Another axiom, but one which is meaningful only so long as
+persecution remains within the bounds of legal procedure, is that
+a careful writer of normal intelligence is more intelligent than
+the most intelligent censor, as such. For the burden of proof rests
+with the censor. It is he, or the public prosecutor, who must prove
+that the author holds or has uttered heterodox views. In order to
+do so he must show that certain literary deficiencies of the work
+are not due to chance, but that the author used a given ambiguous
+expression deliberately, or that he constructed a certain sentence
+badly on purpose
+
+it has some condescending tones, bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. hmmmm….sounds familiar 
+
+i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through Marginal Revolutions, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
+
+cool. I can sleep well with this because leo’s straussianism feels deceptive and it very well is. is the deceptiveness bad though? maybe I’m too optimistic about trying to appeal to a broad audience when putting ideas into the world. 
+
+be outwardly inclusive and exclude with your written subtlety…rip
+
+---
+
+on a more shallow-note…
+
+when thinking about prose as dark arts. there's something scammy about 
+making things sound pretty with no substance. we have ourselves startups marketing ai wrappers  that have raised major dollars because your product design is on point with the right colours, copy and font. 
+
+i mean there’s nothing terrible about this, it’s just interesting. market forces work ************************most of the time,************************ right? ************************************************an attractive sans-serif written ethos that has silicon valley venture capital banging at your doorstep. 
+
+anyways, i’m getting ahead of myself. like i said before, this isn’t bad, it’s just interesting but it draws at the point of genuine or not. get me on board.
+
+as a society, we’re past thought leaders, proposing athenian democracy in favour of oligarchy. instead we have tony robbins, suggesting i take advantage of my “unlimited power and awaken the giant within”. i’ll preface that most of this is coming from a place of teenage angst, but like where’s the poetic beauty. 
+
+it exists, but it’s not our mainstream.
+
+sure, we have school where we actually read orwel’s animal farm (sorry lex), but north american high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means your better off feeding promps into chat-gpt, tweaking your work to avoid getting caught by detectors and attending yet another club meeting to pad your resume. gameable.
+i’m looking at your ethos -  genuine or not. get me on board. articulate your theory of change in such a way that i feel like i have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that i have no choice but to take the actions *you* want me to take. my agency still feels like my own because you write about the  world in such a gloomy way that i have to act, or else i'm the problem.
+
+the bible didn't suggest the physical axioms of the universe, but rather narratives of those that did or didn't act in accordance to god's will. there's nothing discrete about heaven and hell, beyond maybe your mind when it decides you probably want to go to one, not the other.
+
+---
+
+### think like the enlightened and write like a romantic
+
+So, in my confirmation of the romantic way of life being supreme, I still had to test both waters. I queried ChatGPT to give me readings from both schools, and let me just say, I prefer the writing of the enlightened. Or at least, it was much easier to read. Rousseau's Social Contract just tells me what to think. I have an image of man and the state in my mind, and he just brings them together in the way he sees fit. Clear. Cut. Dry. But as always, there's more nuance. Rousseau authored the famous "Confessions," where he would chronically overshare, telling his entire life story with little to spare. He broke the rules and would inspire Poe, Blake, and Keats - romantics that would come after him. His life story was still clear-cut, but not dry. There was emotion with clarity. I appreciate it. There's nothing clear to take away from this beyond the fact that the lines between E and R aren't super clear, and I don't think they should be.
+
+Think like the enlightened, write like a romantic, and arguably live like one too.
+
+There's a [paper](https://janfeld.weebly.com/uploads/1/1/8/9/118933153/writing_matters.pdf) that posits that, for academics, writing style matters. Experts were asked to judge the quality of papers written by economists. Two versions of each paper were written: one edited by writing professionals for clarity and style, and the other left in its original state. Results showed that writing style actually mattered. The edited papers received better scores, scores that were 0.6 standard deviations higher than the non-edited ones. It's interesting because the papers weren't being scored by writing fanatics or even the general public; they were scored by those interested in the content and research, and yet they chose the ones that sounded prettier.
+
+On a more macro-level, GMU is not an R-1 institution. They happen to be very, very good at public-facing communication, are accessible, and are education-focused. As an institution, they've valued the general public over Econometrica.
+
+Like Strauss, I don't think rigor and resulting austerity should be avoided, but your motivations become questionable when the subjects of your work aren't able to understand what it's about.
+
+But with inaccessibility, you close yourself off to criticism. Marginal Revolution's comment section is often an example of why maybe this isn't always a bad thing, but there's a balance here.
+
+---
+
+i recently read through the book *style: lessons in clarity and grace* which introduces writing best practices. i liked it, and [ben kuhn](https://twitter.com/benskuhn/status/1526670496875524096) seems to like it as well. the main point was that clear writing is good, achievable by everyone and therefore we should all strive to write clearly. it’s pretty prescriptive in telling writers to remove pleonasms, approach hedging language with caution, and when in doubt yeet the passive voice off the face off the earth.
+
+but it was wholesome in that it tells you to scrap the advice all-together for style and impact. there would be  examples of science papers. one scrapped of personal pronouns and colloquialism, with every sentence preceded by metadiscourse for epistemic humility and another that broke all the “rules”. the second was the one i almost always liked best. the book agreed with me too.
+
+---
+
+### i can’t write conclusions…
+
+future hamidah is the researcher she dreamt herself to be. the incentives of academia are pretty rubbish, but i get to write a paper! there’s some introspection to be done about what i actually want to accomplish with the work that i do. but on a more micro-level, it’s time to write a paper.
+
+there’s something deeper here beyond the abstract, my journal acceptances and how many funky regressions i can run on my dataset.
+
+things are moving fast and there’s an essence of the world i observe, that i yearn for. something i want to protect. how do i articulate that? it wasn’t done very well in the past thousand words or so. it feels important and i’m kind of convinced it, but i figure i need a modern shelley to explain it better, because…
+
+“…poetry acts in another and diviner manner. It awakens and enlarges the mind itself by rendering it the receptacle of a thousand unapprehended combinations of thought. Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar; it reproduces all that it represents, and the impersonations clothed in its Elysian light stand thenceforward in the minds of those who have once contemplated them, as memorials of that gentle and exalted content which extends itself over all thoughts and actions with which it coexists.”
+in defence of poetry cd70780ce3024f77b3a269f328295460.md
+Displaying in defence of poetry cd70780ce3024f77b3a269f328295460.md.

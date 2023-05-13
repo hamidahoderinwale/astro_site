@@ -66,7 +66,7 @@ For the SPARC 23 application, one of the prompts asked applicants to generate a 
 56. What would it feel like to have deep “okayness”. Am I predisposed or anti-disposed to reaching this state?
 57. Why do I find the act of teaching so enjoyable?
 58.  How do I captured the essence of traditional pedagogy in practice and translate this to a career, idea or project that scales?
-59. I think silent film is a beautiful way of bringing together the. Majority behind a single narrative in the absence of language? What can I do to resurrect this (mostly) lost art?
+59. I think silent film is a beautiful way of bringing people together behind a single narrative (mushy, I know) in the absence of language? What can I do to resurrect this (mostly) lost art?
 60. Why is idiosyncrasy more valued as we get older? 
 61. How long would it take to become reasonably proficient in Opera singing?
 62. What does intellectual attribution and property rights look like in the age of AI-supported innovation?

@@ -69,27 +69,27 @@ you’re never objective. you don’t explain that the biggest reason for your b
 
 on to the next… aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
 
-![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](in%20defence%20of%20poetry%20cd70780ce3024f77b3a269f328295460/Untitled.png)
+![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](/Users/hamidahoderinwale/regular-ring/src/pages/posts/Untitled.png)
 
 (Image credit: Christopher Stark. Design: Lane McNab Interiors)
 
 but yeah, a lot of people hate on buildings like this. i mean i can’t exactly blame them. brutalist exteriors are kinda mid. but, i don’t know, still pretty solid to me. anyways beauty is in the eyes of the beholder, yadda yadda.
 
-![Untitled](in%20defence%20of%20poetry%20cd70780ce3024f77b3a269f328295460/Untitled%201.png)
+![Untitled](/Users/hamidahoderinwale/regular-ring/src/pages/posts/Untitled (1).png)
 
  anyways tyler cowen actually commented on this in a podcast interview.
 
-TC: What I recommend to people is to read books on the history of the visual arts and try to make sense of styles in the visual arts. Pretty much every style from the past that had some notoriety had something to it. Its beautiful or interesting. It may not be your favourite. Go back, try to make sense of that style. And it will be hard. And if you can do that for a style you don’t immediately love, I don’t mean read a book on Monet and look at water lily paintings.
+> TC: What I recommend to people is to read books on the history of the visual arts and try to make sense of styles in the visual arts. Pretty much every style from the past that had some notoriety had something to it. Its beautiful or interesting. It may not be your favourite. Go back, try to make sense of that style. And it will be hard. And if you can do that for a style you don’t immediately love, I don’t mean read a book on Monet and look at water lily paintings.
 
-EK: How about brutalism. I’ve never understood that style.
+> EK: How about brutalism. I’ve never understood that style.
 
-TC: Yes, to go back to look at brutalist buildings, pictures of them, read books on brutalism. I love brutalism. And if that can make sense to you, you then have an open carte blanche, like to every other idea out there, and my thinking on this question has really moved away from, well here’s some particular thing. I’m more meta. Maybe more like robin Hanson. Here’s the way to open all the doors for you and I more and more think its tough issues in aesthetics are what people should study. Styles they don’t love. Learn how to love them. If you think its crap you’re wrong.
+> TC: Yes, to go back to look at brutalist buildings, pictures of them, read books on brutalism. I love brutalism. And if that can make sense to you, you then have an open carte blanche, like to every other idea out there, and my thinking on this question has really moved away from, well here’s some particular thing. I’m more meta. Maybe more like robin Hanson. Here’s the way to open all the doors for you and I more and more think its tough issues in aesthetics are what people should study. Styles they don’t love. Learn how to love them. If you think its crap you’re wrong.
 
 so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. i mean this makes sense or why it’s important at least. naivete in many ways is falling for what is presented in front of you without questioning it further, but of course, straussianism is more than that.
 
 in *persecution and the art of writing* - a book written by leo strauss, the namesake and originator of the ideology - he argues that intellectual independence in a governed society can only be achieved through subtle messaging in otherwise heterodoxical works. you have to play this game of appeasing your true reader while maintaining plausible deniability with those who would disagree. to the extent that i have my own political philosophy, i think this is fine for reasons that he spells out.
 
-Another axiom, but one which is meaningful only so long as
+> Another axiom, but one which is meaningful only so long as
 persecution remains within the bounds of legal procedure, is that
 a careful writer of normal intelligence is more intelligent than
 the most intelligent censor, as such. For the burden of proof rests
@@ -115,7 +115,7 @@ on a more shallow-note…
 when thinking about prose as dark arts. there's something scammy about 
 making things sound pretty with no substance. we have ourselves startups marketing ai wrappers  that have raised major dollars because your product design is on point with the right colours, copy and font. 
 
-i mean there’s nothing terrible about this, it’s just interesting. market forces work ************************most of the time,************************ right? ************************************************an attractive sans-serif written ethos that has silicon valley venture capital banging at your doorstep. 
+i mean there’s nothing terrible about this, it’s just interesting. market forces work **most of the time,** right? an attractive sans-serif written ethos that has silicon valley venture capital banging at your doorstep. 
 
 anyways, i’m getting ahead of myself. like i said before, this isn’t bad, it’s just interesting but it draws at the point of genuine or not. get me on board.
 
@@ -152,7 +152,7 @@ but it was wholesome in that it tells you to scrap the advice all-together for s
 
 ---
 
-### i can’t write conclusions…
+### i can’t write conclusions...
 
 future hamidah is the researcher she dreamt herself to be. the incentives of academia are pretty rubbish, but i get to write a paper! there’s some introspection to be done about what i actually want to accomplish with the work that i do. but on a more micro-level, it’s time to write a paper.
 

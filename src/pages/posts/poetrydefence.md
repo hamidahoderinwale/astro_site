@@ -67,7 +67,7 @@ you’re never objective. you don’t explain that the biggest reason for your b
 
 ### brutalist architecture and straussianism
 
-on to the next… aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
+on to the next...aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
 
 ![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](/Users/hamidahoderinwale/regular-ring/src/pages/posts/Untitled.png)
 

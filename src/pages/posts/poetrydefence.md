@@ -108,7 +108,7 @@ are not due to chance, but that the author used a given ambiguous
 expression deliberately, or that he constructed a certain sentence
 badly on purpose
 
-it has some condescending tones, bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. sounds familiar rip
+it has some condescending tones: bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. sounds familiar rip
 
 i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through marginal Revolution, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
 

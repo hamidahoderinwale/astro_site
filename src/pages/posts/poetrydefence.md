@@ -150,7 +150,7 @@ On a more macro-level, GMU is not an R-1 institution. They happen to be very, ve
 
 like Strauss, i don't think rigor and resulting austerity should be avoided, but your motivations become questionable when the subjects of your work aren't able to understand what it's about.
 
-but with inaccessibility, you close yourself off to criticism. [marginal revolution's](https://marginalrevolution.com/)comment section is often an example of why maybe this isn't always a bad thing, but there's a balance here.
+but with inaccessibility, you close yourself off to criticism. [marginal revolution's](https://marginalrevolution.com/) comment section is often an example of why maybe this isn't always a bad thing, but there's a balance here.
 
 ---
 

@@ -106,7 +106,7 @@ badly on purpose
 
 it has some condescending tones, bashing sociology as a study and favouring esoteric writing because the smart people are the only people worth catering for. sounds familiar rip
 
-i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through Marginal Revolutions, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
+i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through marginal Revolution, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
 
 cool. i can sleep well with this because leo’s straussianism feels deceptive and it very well is. is the deceptiveness bad though? you decide.
 

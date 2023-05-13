@@ -168,6 +168,6 @@ but it was wholesome in that it tells you to scrap the advice all-together for s
 
 ### i can’t write conclusions
 
-things are moving fast, and there’s an essence of the world i observe that i yearn for. something i want to protect. how do i articulate that? i failed it to do it in the past thousands words or so, but i'm convinced of its importance, but i figure i need a modern shelley to explain it better because…
+things are moving fast, and there’s an essence of the world i observe. i yearn for it. it's something i want to protect. how do i articulate that? i failed it to do it in the past thousands words or so, but i'm convinced of its importance, but i figure i need a modern shelley to explain it better because…
 
 > -- poetry acts in another and diviner manner. It awakens and enlarges the mind itself by rendering it the receptacle of a thousand unapprehended combinations of thought. Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar; it reproduces all that it represents, and the impersonations clothed in its Elysian light stand thenceforward in the minds of those who have once contemplated them, as memorials of that gentle and exalted content which extends itself over all thoughts and actions with which it coexists.”

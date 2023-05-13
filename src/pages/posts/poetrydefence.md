@@ -108,7 +108,7 @@ cool. i can sleep well with this because leo’s straussianism feels deceptive a
 
  maybe i’m too optimistic about trying to appeal to a broad audience when putting ideas into the world. 
 
-be outwardly inclusive and exclude with your written subtlety. . .rip
+be outwardly inclusive and exclude with your written subtlety...rip
 
 ---
 

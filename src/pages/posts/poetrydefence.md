@@ -161,5 +161,3 @@ there’s something deeper here beyond the abstract, my journal acceptances and 
 things are moving fast and there’s an essence of the world i observe, that i yearn for. something i want to protect. how do i articulate that? it wasn’t done very well in the past thousand words or so. it feels important and i’m kind of convinced it, but i figure i need a modern shelley to explain it better, because…
 
 “…poetry acts in another and diviner manner. It awakens and enlarges the mind itself by rendering it the receptacle of a thousand unapprehended combinations of thought. Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar; it reproduces all that it represents, and the impersonations clothed in its Elysian light stand thenceforward in the minds of those who have once contemplated them, as memorials of that gentle and exalted content which extends itself over all thoughts and actions with which it coexists.”
-in defence of poetry cd70780ce3024f77b3a269f328295460.md
-Displaying in defence of poetry cd70780ce3024f77b3a269f328295460.md.

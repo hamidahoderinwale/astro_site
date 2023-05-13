@@ -146,7 +146,7 @@ But with inaccessibility, you close yourself off to criticism. Marginal Revoluti
 
 ---
 
-i recently read through the book *style: lessons in clarity and grace* which introduces writing best practices. i liked it, and [ben kuhn](https://twitter.com/benskuhn/status/1526670496875524096) seems to like it as well. the main point was that clear writing is good, achievable by everyone and therefore we should all strive to write clearly. it’s pretty prescriptive in telling writers to remove pleonasms, approach hedging language with caution, and when in doubt yeet the passive voice off the face off the earth.
+i recently read through the book [*style: lessons in clarity and grace*](https://en.wikipedia.org/wiki/Style:_Lessons_in_Clarity_and_Grace) which introduces writing best practices. i liked it, and [ben kuhn](https://twitter.com/benskuhn/status/1526670496875524096) seems to like it as well. the main point was that clear writing is good, achievable by everyone and therefore we should all strive to write clearly. it’s pretty prescriptive in telling writers to remove pleonasms, approach hedging language with caution, and when in doubt yeet the passive voice off the face off the earth.
 
 but it was wholesome in that it tells you to scrap the advice all-together for style and impact. there would be  examples of science papers. one scrapped of personal pronouns and colloquialism, with every sentence preceded by metadiscourse for epistemic humility and another that broke all the “rules”. the second was the one i almost always liked best. the book agreed with me too.
 

@@ -35,7 +35,7 @@ idk maybe i’m not buying into this as much as i should. i mean he did go from 
 
 he continues, stating:
 
-"A poet, as he is the author to others of the highest wisdom, pleasure, virtue, and glory, so he ought personally to be the happiest, the best, the wisest, and the most illustrious of men." 
+> A poet, as he is the author to others of the highest wisdom, pleasure, virtue, and glory, so he ought personally to be the happiest, the best, the wisest, and the most illustrious of men. 
 
 he's  seems to be saying that you should make your human experience as rich as possible, so you can cater to those who are the most cultured. cute, but questionable.
 

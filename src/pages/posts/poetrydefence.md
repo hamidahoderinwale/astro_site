@@ -108,11 +108,11 @@ cool. i can sleep well with this because leo’s straussianism feels deceptive a
 
  maybe i’m too optimistic about trying to appeal to a broad audience when putting ideas into the world. 
 
-be outwardly inclusive and exclude with your written subtlety…rip
+be outwardly inclusive and exclude with your written subtlety. . .rip
 
 ---
 
-on a more shallow-note...
+on a more shallow-note.
 
 when thinking about prose as the dark arts. there's something scammy about making things sound pretty with no substance. 
 

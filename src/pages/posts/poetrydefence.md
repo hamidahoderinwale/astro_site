@@ -132,7 +132,7 @@ as a society, we’re past thought leaders, proposing athenian democracy in favo
 
 i’ll preface that most of this is coming from a place of teenage angst, but like we've come so far??
 
-it exists, but it’s not our mainstream.
+poetic thought. it exists, but it’s not our mainstream.
 
 sure, we have schools where we actually read orwell's animal farm (sorry Lex), but north american high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means you're better off feeding prompts into Chat-GPT, tweaking your work to avoid getting caught by detectors, and attending yet another club meeting to pad your resume. gameable.
 

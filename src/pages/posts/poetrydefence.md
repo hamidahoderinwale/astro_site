@@ -85,7 +85,7 @@ but yeah, a lot of people hate on buildings like this. i mean i can’t exactly 
 
 > TC: Yes, to go back to look at brutalist buildings, pictures of them, read books on brutalism. I love brutalism. And if that can make sense to you, you then have an open carte blanche, like to every other idea out there, and my thinking on this question has really moved away from, well here’s some particular thing. I’m more meta. Maybe more like robin Hanson. Here’s the way to open all the doors for you and I more and more think its tough issues in aesthetics are what people should study. Styles they don’t love. Learn how to love them. If you think its crap you’re wrong.
 
-so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was a fancy term for “critical thinking”. 
+so for one, my liking of the weird japanese-style architecture is validated and two this fits into a greater mode of thinking that tyler appreciates - straussianism. i didn’t really know what it was and came to this thread, which made me believe it was just a fancy term for “critical thinking”. 
 
 obviously critical thinking is important, but why the fancy term?
 

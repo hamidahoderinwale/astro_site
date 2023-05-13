@@ -69,14 +69,14 @@ you’re never objective. you don’t explain that the biggest reason for your b
 
 on to the next...aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
 
-<img src="https://cdn.mos.cms.futurecdn.net/xEQUCv5DADy8qxuuQGetBK-1600-80.jpg.webp" width="10vw" height=5vh
+<img src="https://cdn.mos.cms.futurecdn.net/xEQUCv5DADy8qxuuQGetBK-1600-80.jpg.webp" width="300vw" height="200vh
 ">
 
 <figcaption>(Image credit: Christopher Stark. Design: Lane McNab Interiors)</figcaption>
 
 but yeah, a lot of people hate on buildings like this. i mean i can’t exactly blame them. brutalist exteriors are kinda mid. but, i don’t know, still pretty solid to me. anyways beauty is in the eyes of the beholder, yadda yadda.
 
-<img src="https://images.gessato.com/cb:OWDa~b707/w:1110/h:767/q:mauto/f:avif/https://www.gessato.com/wp-content/uploads/2020/12/brutalist-architecture-casa-merida.jpg" width="10vw" height="5vh
+<img src="https://images.gessato.com/cb:OWDa~b707/w:1110/h:767/q:mauto/f:avif/https://www.gessato.com/wp-content/uploads/2020/12/brutalist-architecture-casa-merida.jpg" width="300vw" height="200vh
 ">
 
  anyways tyler cowen actually commented on this in a podcast interview.

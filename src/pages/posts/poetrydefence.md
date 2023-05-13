@@ -69,13 +69,13 @@ you’re never objective. you don’t explain that the biggest reason for your b
 
 on to the next...aesthetics! perhaps i'm weird for liking brutalist architecture. i watch these architectural digest videos where they invite a crew into the home of celebrities. homes that i'm skeptical they actually own, but i digress. the ones with the brutalist, "japanese-style", concrete abodes have my soul. modern. clean. kinda clunky. easy on the eyes.
 
-![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](/Users/hamidahoderinwale/regular-ring/src/pages/posts/Untitled.png)
+![(Image credit: Christopher Stark. Design: Lane McNab Interiors)](Untitled.png)
 
 (Image credit: Christopher Stark. Design: Lane McNab Interiors)
 
 but yeah, a lot of people hate on buildings like this. i mean i can’t exactly blame them. brutalist exteriors are kinda mid. but, i don’t know, still pretty solid to me. anyways beauty is in the eyes of the beholder, yadda yadda.
 
-![Untitled](/Users/hamidahoderinwale/regular-ring/src/pages/posts/Untitled (1).png)
+![Untitled](Untitled (1).png)
 
  anyways tyler cowen actually commented on this in a podcast interview.
 

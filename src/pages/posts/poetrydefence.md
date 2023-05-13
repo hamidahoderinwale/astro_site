@@ -104,7 +104,9 @@ it has some condescending tones, bashing sociology as a study and favouring esot
 
 i'm still left questioning why tyler views the world through the lens of this philosophy or at least art and different forms of content. so, in looking through Marginal Revolutions, it looks like my initial conception of straussianism aligns more with what cowen actually thinks about: characterized by a focus on underlying principles and hidden meanings, rather than surface-level appearances. a focus on focus.
 
-cool. I can sleep well with this because leo’s straussianism feels deceptive and it very well is. is the deceptiveness bad though? maybe I’m too optimistic about trying to appeal to a broad audience when putting ideas into the world. 
+cool. i can sleep well with this because leo’s straussianism feels deceptive and it very well is. is the deceptiveness bad though? you decide.
+
+ maybe i’m too optimistic about trying to appeal to a broad audience when putting ideas into the world. 
 
 be outwardly inclusive and exclude with your written subtlety…rip
 

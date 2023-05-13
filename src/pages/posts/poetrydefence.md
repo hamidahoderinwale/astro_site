@@ -7,9 +7,9 @@ layout: ../../layouts/Layout.astro
 <h2> in defence of poetry </h2>
 <p><i>May 13, 2023</i></p>
 
-i’ll preface by saying it’s very fun going down rabbitholes with no clear end goal in-mind. another day, another binge-googling of the romantic era, expression and brutalist architecture.
+i'll preface by saying it's very fun going down rabbit holes with no clear end goal in mind. another day, another binge-googling of the romantic era, expression, and brutalist architecture.
 
-the following are some ramblings on instrumental knowledge, aesthetic appreciation, straussian readings, the enlightened, the romantics, with many, many tangeants.
+the following are some ramblings on instrumental knowledge, aesthetic appreciation, Straussian readings, the enlightened, the romantics, with many, many tangents.
 
 ---
 

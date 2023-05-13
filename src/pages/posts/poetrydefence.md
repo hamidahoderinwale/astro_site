@@ -110,10 +110,9 @@ be outwardly inclusive and exclude with your written subtlety…rip
 
 ---
 
-on a more shallow-note…
+on a more shallow-note...
 
-when thinking about prose as dark arts. there's something scammy about 
-making things sound pretty with no substance. we have ourselves startups marketing ai wrappers  that have raised major dollars because your product design is on point with the right colours, copy and font. 
+when thinking about prose as the dark arts. there's something scammy about making things sound pretty with no substance. we have startups marketing ai wrappers that have raised significant amounts of money because their product design is on point, with the right colors, copy, and font.
 
 i mean there’s nothing terrible about this, it’s just interesting. market forces work **most of the time,** right? an attractive sans-serif written ethos that has silicon valley venture capital banging at your doorstep. 
 
@@ -123,10 +122,11 @@ as a society, we’re past thought leaders, proposing athenian democracy in favo
 
 it exists, but it’s not our mainstream.
 
-sure, we have school where we actually read orwel’s animal farm (sorry lex), but north american high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means your better off feeding promps into chat-gpt, tweaking your work to avoid getting caught by detectors and attending yet another club meeting to pad your resume. gameable.
-i’m looking at your ethos -  genuine or not. get me on board. articulate your theory of change in such a way that i feel like i have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that i have no choice but to take the actions *you* want me to take. my agency still feels like my own because you write about the  world in such a gloomy way that i have to act, or else i'm the problem.
+sure, we have schools where we actually read orwell's animal farm (sorry Lex), but North American high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means you're better off feeding prompts into Chat-GPT, tweaking your work to avoid getting caught by detectors, and attending yet another club meeting to pad your resume. gameable.
 
-the bible didn't suggest the physical axioms of the universe, but rather narratives of those that did or didn't act in accordance to god's will. there's nothing discrete about heaven and hell, beyond maybe your mind when it decides you probably want to go to one, not the other.
+i'm looking at your ethos - genuine or not. get me onboard. articulate your theory of change in such a way that I feel like I have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that I have no choice but to take the actions you want me to take. my agency still feels like my own because you write about the world in such a gloomy way that I have to act, or else I'm the problem.
+
+the bible didn't suggest the physical axioms of the universe, but rather narratives of those that did or didn't act in accordance with God's will. there's nothing discrete about heaven and hell, beyond maybe your mind when it decides you probably want to go to one, not the other.
 
 ---
 

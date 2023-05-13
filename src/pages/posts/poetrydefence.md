@@ -37,7 +37,9 @@ he continues, stating:
 
 > A poet, as he is the author to others of the highest wisdom, pleasure, virtue, and glory, so he ought personally to be the happiest, the best, the wisest, and the most illustrious of men. 
 
-he's  seems to be saying that you should make your human experience as rich as possible, so you can cater to those who are the most cultured. cute, but questionable.
+cater to those who are the most cultured by making your human experience as rich as possible. cute..
+
+but questionable.
 
 when shit hits the fan, i'll say something along the lines of "this is for the readers," insinuating that it's all for the plot, for my novel of course. a case for my own personal romanticism, making pain sublime. imagining you're the focus of a hypothetical pan-shot, makes looking through rain-covered windows becomes a little more lively.
 

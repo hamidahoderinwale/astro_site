@@ -114,9 +114,13 @@ be outwardly inclusive and exclude with your written subtlety…rip
 
 on a more shallow-note...
 
-when thinking about prose as the dark arts. there's something scammy about making things sound pretty with no substance. we have startups marketing ai wrappers that have raised significant amounts of money because their product design is on point, with the right colors, copy, and font.
+when thinking about prose as the dark arts. there's something scammy about making things sound pretty with no substance. 
 
-i mean there’s nothing terrible about this, it’s just interesting. market forces work **most of the time,** right? an attractive sans-serif written ethos that has silicon valley venture capital banging at your doorstep. 
+we have startups marketing ai wrappers that have raised significant amounts of money because their product design is on point, with the right colors, copy, and font.
+
+i mean there’s nothing unethical about this, it’s just interesting. 
+
+market forces work **most of the time,** right? an attractive sans-serif written ethos can have silicon valley venture capital banging at your doorstep. the world goes round.
 
 anyways, i’m getting ahead of myself. like i said before, this isn’t bad, it’s just interesting but it draws at the point of genuine or not. get me on board.
 

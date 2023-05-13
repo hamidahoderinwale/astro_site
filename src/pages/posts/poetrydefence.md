@@ -9,7 +9,7 @@ layout: ../../layouts/Layout.astro
 
 i'll preface by saying it's very fun going down rabbit holes with no clear end goal in mind. another day, another binge-googling of the romantic era, expression, and brutalist architecture.
 
-the following are some ramblings on instrumental knowledge, aesthetic appreciation, Straussian readings, the enlightened, the romantics, with many, many tangents.
+the following are some ramblings on instrumental knowledge, aesthetic appreciation, straussian readings, the enlightened, the romantics, with many, many tangents.
 
 ---
 

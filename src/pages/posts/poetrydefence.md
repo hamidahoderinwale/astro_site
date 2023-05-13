@@ -53,7 +53,7 @@ i suppose it only makes sense that he get his point across with (sometimes obnox
 
 on the subject of people we look up to. i think about this post called [*on living without idols*](https://forum.effectivealtruism.org/posts/jgspXC8GKA7RtxMRE/on-living-without-idols) that i read a while ago. the author starts of by acknowledging they were going to write the way *they* like, ignoring what’s expected.
 
-the eaforum has “norms”: esotericity, TLDRs, and academic-esque writing. they’re not mandates, but..umm…encouraged. 
+the eaforum has “norms”: esotericity, TLDRs, and academic-esque writing. they’re not mandates, but..encouraged. 
 
 so this person is writing this thing about how people shouldn’t glorify authority, glorify peers, how you shouldn’t glorify yourself even when you’re on the righteous path. they recount anecdotes, they’re candid and bring themselves into the conversation. it’s really well-written. i really like it. at the mercy of emotionlessness and a different style of writing, i think there’s ways in which this could have been not as good. but it was good.
 

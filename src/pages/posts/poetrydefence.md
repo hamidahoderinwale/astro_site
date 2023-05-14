@@ -45,11 +45,11 @@ when shit hits the fan, i'll say something along the lines of "this is for the r
 
 but once again, shelley is dealing with motivations that i’m finding  hard to grasp. i don’t think i care if i’m a creator, in the manner he presents it - a creator akin to god. it’s probably down right bad if i had that power, speak of it even being possible or true. 
 
-why should i care if my work is being read by the world’s most cultured. 
+why should i care if my work is being read by the world’s most cultured?
 
-why is *this* the medium you assume gives you all this influence.
+why is *this* the medium you assume gives you all this influence?
 
-he’s just ***really*** into all of this. it’s beautiful though. 
+he’s just ***really*** into all of this. it’s kinda beautiful though. 
 
 i suppose it only makes sense that he get his point across with (sometimes obnoxious) prose.
 

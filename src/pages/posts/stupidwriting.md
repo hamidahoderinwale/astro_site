@@ -69,7 +69,7 @@ However, writing, especially in the new approach I’ve adopted, gives me a spac
 
 Having a minimum biweekly commitment is enough of an anxiety inducer that, at the very least, I can look back at a couple hundred words of output every two weeks. 
 
-My priorities for the next ten years, half-decade, even, are showing to be a slow grind. Semi-clear objectives and fingers on the keyboard are satisfying, calming even. It gives me a decent foundation to do other things. Though I don't only think a "blog" captures the essence of all of this. My bare minimum, self-imposed thing I required myself to “ship” were words, but the principle generalizes further.
+My priorities for the next ten years, half-decade, even, are showing to be a slow grind. Semi-clear objectives and fingers on the keyboard are satisfying, calming even. It gives me a decent foundation to do other things. Though I don't only think a "blog" captures the essence of all of this. My bare minimum, self-imposed thing I required myself to "ship" were words, but the principle generalizes further.
 
 It seems like working on projects, having fun, and letting exploration take reign while having something to show for it is the aim.
 

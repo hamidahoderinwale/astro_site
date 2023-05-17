@@ -21,7 +21,7 @@ GRINDING math, building HARD skills, and CONCRETE problem-solving.
 
 To be clear, I don’t think all of this is true to the full extent: I recently wrote a [3,000-word spiel](https://www.hamidah.me/posts/poetrydefence/) defending poetic expression. I think the ability to write well is important, and I have long ways to go before being near good, but I think it’s worth trying. 
 
-In a GROWTH MINDSET fashion, I'm trying to improve: going from optimizing for sheer quantity to being slightly more intentional.
+I’m trying to improve in true GROWTH MINDSET fashion: going from optimizing for sheer quantity to being slightly more intentional.
 
 Frankly, I’m not inclined to become the type of writer who would win a Pulitzer ([and I don’t think most aspiring writers should either](https://malwarwickonbooks.com/how-much-is-a-pulitzer-prize-worth/)). Though I’ll admit that being a popular Sstack writer would be nice. Generally, the centre of my motivation comes from having a medium to convey my beliefs. I think they’re transmittable through more concrete forms in what I build and connect with people, but I’m excited about the prospect of having my *stupid writing* as a memento I can return to. Conditional on doing anything substantial; perhaps this extends beyond me.
 

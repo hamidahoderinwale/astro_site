@@ -61,9 +61,9 @@ Now, is time spent writing for this stupid blog time wasted? Perhaps. As much as
 
 Frankly, I’m not inclined to become the type of writer who would win a Pulitzer ([and I don’t think most aspiring writers should either](https://malwarwickonbooks.com/how-much-is-a-pulitzer-prize-worth/)). 
 
-Generally, the centre of my motivation comes from having a medium to convey my beliefs. But they’re plurally transmissible from what I build and how I connect with people. But I’m excited about the prospect of having my *stupid writing* as a memento I can return to. 
+Generally, the centre of my motivation comes from having a medium to convey my beliefs.  I’m excited by the prospect of having my *stupid writing* as a memento I can return to. 
 
-Perhaps this extends beyond me, contingent on doing something substantial.
+In the future, perhaps the value extends beyond me, contingent on doing something substantial.
 
 However, writing, especially in the new approach I’ve adopted, gives me a space to think about topics that extend to more tangible projects. It provides room for creativity before doing the real stuff and forces me actually to do something, *[not end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing?curius=1417,2642,2438)*. 
 

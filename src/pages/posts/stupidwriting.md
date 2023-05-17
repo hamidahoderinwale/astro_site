@@ -39,7 +39,7 @@ I'm not a Neo-Luddite nor a purist;  I don’t think content generators should b
 
 In the transition, it’s possible we lose the essence of creation; maybe the maker’s spirit diminishes and perhaps lose sight of why the (intentional) consumption of artifacts is of intrinsic value. But, I argue transience. 
 
-The punctuated equilibrium model helps us understand that we’re in yet another intense revolution. But as we progress to stasis, we temporarily return. We progress to Man with different ideas of what it means to take pride in our work.
+The punctuated equilibrium model helps us understand that we’re in yet another intense revolution. But as we progress to stasis, we temporarily return. We progress to Man with a different idea of what it means to take pride in our work.
 
 I’m excited to accelerate my learning without sacrificing integrity, correct avoidable errors in writing (hopefully while still developing my own grammatical intuitions), develop customized learning plans, and quickly acclimate myself to new concepts.
 

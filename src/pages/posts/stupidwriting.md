@@ -63,7 +63,7 @@ Frankly, I’m not inclined to become the type of writer who would win a Pulitze
 
 Generally, the centre of my motivation comes from having a medium to convey my beliefs. But they’re plurally transmissible from what I build and how I connect with people. But I’m excited about the prospect of having my *stupid writing* as a memento I can return to. 
 
-Perhaps this extends beyond me; conditional on doing something substantial.
+Perhaps this extends beyond me, contingent on doing something substantial.
 
 However, writing, especially in the new approach I’ve adopted, gives me a space to think about topics that extend to more tangible projects. It provides room for creativity before doing the real stuff and forces me actually to do something, *[not end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing?curius=1417,2642,2438)*. 
 

@@ -77,7 +77,7 @@ Pretty much all of my initial assumptions ended up being wrong. Since July, I've
 
 An [anti-marketing approach](https://notes.nicolevanderhoeven.com/Anti-marketing) would be the next step, and I’ll see what the upcoming months bring in this regard. 
 
-Regardless, I’ve gone from not caring to trying, and it's been fun.
+Regardless, I’ve gone from not caring to trying. It's been fun.
 
 ---
 

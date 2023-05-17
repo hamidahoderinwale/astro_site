@@ -49,7 +49,7 @@ Arguably, one of McKinsey's functions is the one of a [capital's willing executi
 
 ---
 
-A few months ago, keeping with personal tradition, I was in the valley of despair, this time with company. Haunted by the feat that is remedying my stupidity and, God forbid, trying to do anything meaningful, I rambled on. My mentor of sorts told me to just “sharpen my tools”.  Undeniably cracked in a way I very much wasn’t; their advice seemed too simple. What tools do I even have? Should I not try to pick some (different and technical) ones up before fine-tuning them?
+A few months ago, keeping with personal tradition, I was in the valley of despair, this time with company. Haunted by the feat that is remedying my stupidity and, God forbid, trying to do anything meaningful, I rambled on. My mentor of sorts told me to just "sharpen my tools".  Undeniably cracked in a way I very much wasn’t; their advice seemed too simple. What tools do I even have? Should I not try to pick some (different and technical) ones up before fine-tuning them?
 
 Well, turns out you can simultaneously learn multiple things, and I’m not completely devoid of competence. 
 

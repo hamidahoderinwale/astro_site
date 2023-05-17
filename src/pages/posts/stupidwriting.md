@@ -82,8 +82,8 @@ Regardless, I I’ve gone from not caring to trying, and it's been fun.
 ---
 
 Good advice for writing better (and more):
-    - [Some resources on learning to write better [Anne, October 2022]](https://docs.google.com/document/d/1WloTECTLIuP2hSzkUKutD286U5hIOQjZszEGAE0H8HA/edit)
-    - [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
-    - [How to Create A Great Sentence](https://thenarrativearc.org/sentence-and-syntax)
-    - [Getting Better at Writing: Why and How](https://forum.effectivealtruism.org/posts/PgQdvoPRxZbw7Kqxu/getting-better-at-writing-why-and-how)
-    - [Want to Become a Better Writer? Copy the Work of Others!](https://www.artofmanliness.com/career-wealth/career/want-to-become-a-better-writer-copy-the-work-of-others/?curius=2438)
+1. [Some resources on learning to write better [Anne, October 2022]](https://docs.google.com/document/d/1WloTECTLIuP2hSzkUKutD286U5hIOQjZszEGAE0H8HA/edit)
+2. [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
+3. [How to Create A Great Sentence](https://thenarrativearc.org/sentence-and-syntax)
+4. [Getting Better at Writing: Why and How](https://forum.effectivealtruism.org/posts/PgQdvoPRxZbw7Kqxu/getting-better-at-writing-why-and-how)
+5. [Want to Become a Better Writer? Copy the Work of Others!](https://www.artofmanliness.com/career-wealth/career/want-to-become-a-better-writer-copy-the-work-of-others/?curius=2438) 

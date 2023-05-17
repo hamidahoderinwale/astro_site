@@ -55,7 +55,7 @@ Well, turns out you can simultaneously learn multiple things, and I’m not comp
 
 Though it’s nice to have a personal core curriculum  - a set of tools to sharpen - mine is still in development; I don’t think it should be formally reduced to Jira tickets in the hope of transcendence. Vaguely, mine range from raw skills — writing being one of them - to developing personhood.  In working through said curriculum and in things to learn more broadly, I think the “learning in public” philosophy is apposite: creating learning exhaust, to [“make the thing you wish you had found when you were learning.”](https://www.notion.so/Stupid-Writing-c6410076538649e9b3a63a5977650284)
 
-The university experience seems good at executing this. I say “good” because university imposes constraints, not in an abhorrent way, as dropout fanatics might argue, but I agree effective self-directed learning is invaluable. 
+The university experience seems good at executing this. I say "good" because university imposes constraints, not in an abhorrent way, as dropout fanatics might argue, but I agree effective self-directed learning is invaluable. 
 
 Now, is time spent writing for this stupid blog time wasted? Perhaps. As much as I build up this idea of my future self being able to tackle all the disparate skills on her vision board, we’re capped by time and energy. 
 

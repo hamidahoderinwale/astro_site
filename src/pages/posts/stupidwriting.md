@@ -31,7 +31,7 @@ What’s the point? In Holden Karnofsky’s, [*Learning By Writing*](https://www
 
 >Have a blog, then a virtuous cycle begins where you are looking for things to write about, then getting really into some of them during the writing, which leads you to more unwritten corners of the thing. And afterward the mask of being someone interested in it eats into the face” - [GLeech](https://www.gleech.org/hype#:~:text=Have%20a%20blog%2C%20then%20a%20virtuous%20cycle%20begins%20where%20you%20are%20looking%20for%20things%20to%20write%20about%2C%20then%20getting%20really%20into%20some%20of%20them%20during%20the%20writing%2C%20which%20leads%20you%20to%20more%20unwritten%20corners%20of%20the%20thing.%20And%20afterward%20the%20mask%20of%20being%20someone%20interested%20in%20it%20eats%20into%20the%20face) 
 
-[Shelley](https://www.poetryfoundation.org/articles/69388/a-defence-of-poetry) reflects on the purpose of poetic expression. The age of generative AI, like Claude expanding, making tremendous leaps in capability, like Anthropic’s Claude going from [9,000 to 100,000 tokens,](https://www.anthropic.com/index/100k-context-windows) doesn’t conclude futility, it calls for creativity. 
+[Shelley](https://www.poetryfoundation.org/articles/69388/a-defence-of-poetry) reflects on the purpose of poetic expression. The age of generative AI, like Claude expanding, making tremendous leaps in capability, like Anthropic’s Claude going from [9,000 to 100,000 tokens,](https://www.anthropic.com/index/100k-context-windows) doesn’t conclude futility; it calls for creativity. 
 
 ---
 

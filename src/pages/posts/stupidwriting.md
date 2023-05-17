@@ -53,7 +53,7 @@ A few months ago, keeping with personal tradition, I was in the valley of despai
 
 Well, turns out you can simultaneously learn multiple things, and I’m not completely devoid of competence. 
 
-Though it’s nice to have a personal core curriculum  - a set of tools to sharpen - mine is still in development; I don’t think it should be formally reduced to Jira tickets in the hope of transcendence. Vaguely, mine range from raw skills — writing being one of them - to developing personhood.  In working through said curriculum and in things to learn more broadly, I think the “learning in public” philosophy is apposite: creating learning exhaust and [“mak[ing] the thing you wish you had found when you were learning.”](https://www.notion.so/Stupid-Writing-c6410076538649e9b3a63a5977650284)
+Though it’s nice to have a personal core curriculum  - a set of tools to sharpen - mine is still in development; I don’t think it should be formally reduced to Jira tickets in the hope of transcendence. Vaguely, mine range from raw skills — writing being one of them - to developing personhood.  In working through said curriculum and in things to learn more broadly, I think the “learning in public” philosophy is apposite: creating [learning exhaust](https://www.montefischer.com/2020/04/07/some-links.html) and [“mak[ing] the thing you wish you had found when you were learning.”](https://www.notion.so/Stupid-Writing-c6410076538649e9b3a63a5977650284)
 
 The university experience seems good at executing this. I say "good" because university imposes constraints, not in an abhorrent way, as dropout fanatics might argue, but I agree effective self-directed learning is invaluable. 
 

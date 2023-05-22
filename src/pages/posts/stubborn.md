@@ -8,11 +8,12 @@ layout: ../../layouts/Layout.astro
 
 ---
 Author: Tyler Cowen 
+
 Read: May 20-21st, 2023
 
 *These is pretty much a stream of consciousness with very, very minimal editing. Beware.*
 
-This is definitely one of the better econ books that I’ve read. Although, I haven’t read that many. Devoid of mathematical notation, Tyler introduces classic economic concepts and thought experiments in a very non-hand holdy way. There’s a high density of concepts, but it consistently ties into the narrative of why investing in sustainable economic growth is important: our Crusonia plant and subscribes to the Principle of Growth. I generally think his philosophy is good: maximizing good, with the framework of good being plural to include both the resource-maximizing view and one filled with the more intangible forms of value (i.e. platonic beauty). Virtue is important to hold, and the necessity of upholding human rights constricts all of the well-being we intend to promote.
+*Stubborn Attachments* is definitely one of the better econ books that I’ve read. Although, I haven’t read that many. Devoid of mathematical notation, Tyler introduces classic economic concepts and thought experiments in a very non-hand holdy way. There’s a high density of concepts, but it consistently ties into the narrative of why investing in sustainable economic growth is important: our Crusonia plant and subscribes to the Principle of Growth. I generally think his philosophy is good: maximizing good, with the framework of good being plural to include both the resource-maximizing view and one filled with the more intangible forms of value (i.e. platonic beauty). Virtue is important to hold, and the necessity of upholding human rights constricts all of the well-being we intend to promote.
 
 The Crusonia Plant is a key symbol throughout the book that he uses to represent “a gift that keeps on giving”, seeming to magically override the finite nature of resources - an everlasting positive-sum world. Like Milton Friedman would suggest, ongoing yield without end just seems unlikely or at the risk of other things going wrong. Cowen differs? He references how even if the concept of “free lunch” dissolved into impossibility, our existence implies that we got lucky at least once - at the start of humanity, when the Big Bang marked the start of a world worth trillions, with billions of people and much much data.
 

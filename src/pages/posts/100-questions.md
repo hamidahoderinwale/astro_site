@@ -38,7 +38,7 @@ For the SPARC 23 application, one of the prompts asked applicants to generate a 
 28. If a latte is coffee with milk. Would a single drop of coffee make a cup of milk, a latte?
 29. Why are physicists among the best writers that I have encountered. From Feynman to James Jean, prose is prolific among the rotators of physical matter.
 30. How are abrahamic prayers constructed. Is it a matter of mimetics that some have staying power? Survival of the ones with the most alteration lol
-31. What is the tipping point for free-riding causing market failure for Netflix subscriptions. 
+31. At what point does free-riding lead to market failure for Netflix subscriptions? (I'm still salty smh)
 32. Do we need to redefine our sense of purpose in the age of GPT? I always thought that I could lead a life of servitude to replace my guilt and dread. Do I just wallow on abundance in a post-scarcity world?
 33. What’s the best minimal closet that I can make? What would the MVP for my closet look like that would be appropriate for 90% of situations.
 34. What traits could you identify in kindergarten that would assess how strong a philosopher they would be in the future?

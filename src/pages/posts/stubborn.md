@@ -3,8 +3,8 @@ title: "Stubborn Attachments: Book Notes"
 layout: ../../layouts/Layout.astro
 ---
 
-<h2> Stupid Writing </h2>
-<p><i>May 16, 2023</i></p>
+<h2> Stubborn Attachments</h2>
+<p><i>May 22, 2023</i></p>
 
 ---
 Author: Tyler Cowen 

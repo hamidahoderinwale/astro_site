@@ -7,9 +7,9 @@ layout: ../../layouts/Layout.astro
 <p><i>May 22, 2023</i></p>
 
 ---
-Author: Tyler Cowen 
+<p> Author: Tyler Cowen </p>
 
-Read: May 20-21st, 2023
+<p> Read: May 20-21st, 2023 </p>
 
 *These is pretty much a stream of consciousness with very, very minimal editing. Beware.*
 

@@ -8,7 +8,7 @@ layout: ../../layouts/Layout.astro
 
 ---
 
-I suck at writing. I haven’t written much (hats off to the prolific among you, a la [Ryoki Inuoe](https://www.notion.so/Stupid-Writing-c6410076538649e9b3a63a5977650284). As a result, I haven’t been subjected to the criticism I likely need to improve. But why does this matter? I can express myself decently. I have a decent handle on semantics and a relatively average language arts education, which should be sufficient. Right?
+I suck at writing. I haven’t written much (hats off to the prolific among you, a la [Ryoki Inuoe](https://www.notion.so/Stupid-Writing-c6410076538649e9b3a63a5977650284)). As a result, I haven’t been subjected to the criticism I likely need to improve. But why does this matter? I can express myself decently. I have a decent handle on semantics and a relatively average language arts education, which should be sufficient. Right?
 
 Subconsciously, I wrote off writing as a skill worth actively trying
 to improve. All the improvement I needed, if any at all, could be 

@@ -64,9 +64,9 @@ In this worldview, we somewhat abandon, overly benevolent social welfare program
 
 Assuming countries should want to lift themselves out of poverty, they are able to do so due to three factors: 
 
-				1) effective single party and/or strongman rule  
-				2) effective implementation of capitalism  
-				3) a population that is culturally suited to hard
+    1) effective single party and/or strongman rule  
+    2) effective implementation of capitalism  
+    3) a population that is culturally suited to hard
 
 Arguably, democracy doesn't enable most of these factors. Democracies are distributed and time-inefficient. Democracies being implemented in currently unstable governments also don't tend to form on their own or are at least a product of many many years of civil unrest with a low likelihood of success when implemented by the "people" internally. For the sake of economic growth, it's better to let "people" fend for themselves. It's interesting when you consider developing nations who are war-ridden, who have populations who are basically banking on external forces to implement something seemingly democratic to counteract often a major militant governmental power. 
 

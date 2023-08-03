@@ -8,6 +8,7 @@ layout: ../../layouts/Layout.astro
 
 ---
 
+Some econ-related things I've been thinking about. I definitely want to put more of these together in the future.
 
 **The Career** 
 
@@ -71,6 +72,13 @@ Assuming countries should want to lift themselves out of poverty, they are able 
 Arguably, democracy doesn't enable most of these factors. Democracies are distributed and time-inefficient. Democracies being implemented in currently unstable governments also don't tend to form on their own or are at least a product of many many years of civil unrest with a low likelihood of success when implemented by the "people" internally. For the sake of economic growth, it's better to let "people" fend for themselves. It's interesting when you consider developing nations who are war-ridden, who have populations who are basically banking on external forces to implement something seemingly democratic to counteract often a major militant governmental power. 
 
 This is not focusing on learned helplessness per say, but wavers at this general idea that being lifted from deplorability might not always be a necessarily good thing. struggle is needed for growth. there is some question of moral relativism here. it's not at the level of whether murderous tyrannical governments should be allowed to exist, but you claim democracy is a right. Is any nation that persists without it, when there are actors that can intervene, a bad thing? a morally wrong one? this someone aligns with the Bolsheviks that split from the Russian Social Democratic Labour Party and the aligned (generally) marxist Mensheviks.
+
+** Some Questions**
+- What are the impacts of religiosity on remittances by immmigrants to their home-countries?
+- On a related note, how do historic political ideologies impact remittance culture?
+- What does it look like to have a more standardized achievement culture for college admissions on the axes of equality and accessiblity? How can we best tactically measure this in the vain of Ruchir and related research?
+- How can lotteries best supplement Deferred Acceptance Algorithms for admission processes (of all kinds?
+- Does a georgist society hinder innovation, by virtue of geographic stagnation preventing idea-sharing, innovation hubs, etc.
 	
 -- 
 

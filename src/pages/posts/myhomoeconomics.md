@@ -73,7 +73,7 @@ Arguably, democracy doesn't enable most of these factors. Democracies are distri
 
 This is not focusing on learned helplessness per say, but wavers at this general idea that being lifted from deplorability might not always be a necessarily good thing. struggle is needed for growth. there is some question of moral relativism here. it's not at the level of whether murderous tyrannical governments should be allowed to exist, but you claim democracy is a right. Is any nation that persists without it, when there are actors that can intervene, a bad thing? a morally wrong one? this someone aligns with the Bolsheviks that split from the Russian Social Democratic Labour Party and the aligned (generally) marxist Mensheviks.
 
-** Some Questions**
+**Some Questions**
 - What are the impacts of religiosity on remittances by immmigrants to their home-countries?
 - On a related note, how do historic political ideologies impact remittance culture?
 - What does it look like to have a more standardized achievement culture for college admissions on the axes of equality and accessiblity? How can we best tactically measure this in the vain of Ruchir and related research?

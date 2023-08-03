@@ -77,7 +77,7 @@ This is not focusing on learned helplessness per say, but wavers at this general
 - What are the impacts of religiosity on remittances by immmigrants to their home-countries?
 - On a related note, how do historic political ideologies impact remittance culture?
 - What does it look like to have a more standardized achievement culture for college admissions on the axes of equality and accessiblity? How can we best tactically measure this in the vain of Ruchir and related research?
-- How can lotteries best supplement Deferred Acceptance Algorithms for admission processes (of all kinds?
+- How can lotteries best supplement Deferred Acceptance Algorithms for admission processes (of all kinds?)
 - Does a georgist society hinder innovation, by virtue of geographic stagnation preventing idea-sharing, innovation hubs, etc.
 	
 

@@ -4,6 +4,10 @@ const title = Astro.props.title || Astro.props.frontmatter.title;
 
 <html lang="en">
     <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      </head>
+      
 <title>hi, i'm hamidah :)</title>
 <link rel="icon" type="image/x-icon" href="s/assets/favicon.ico">
 
@@ -87,13 +91,18 @@ a:active {
 
     body {
       font-family: 'Arial', sans-serif;
-        max-width: 55ch;
+        max-width: 65ch;
         margin: 40px;
         max-width: 620px;
         line-height: 1.6;
         font-size: 18px;
         background: #f8f9fa;
         color: #0A0903;
+        padding: 0 10px;
+    }
+
+    h1, h2, h3 {
+      line-height: 1.4;
     }
 
  

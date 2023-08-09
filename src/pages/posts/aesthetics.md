@@ -53,7 +53,9 @@ i've mentioned how i never enjoyed museums. sometimes it still feels like people
 
 on the things i like. i wear classic black converse. every year or so, i'll get my one pair of shoes. surf reddit, maybe browse through pinterest, ask a friend. i need a sneaker. can i run? can i walk? is it decently water-proof? socks socked with water is still an annual experience, but some protection is nice. neutrals because they go with everything. before i didn't care or didn't spend time noticing.
 
-my new pair this year and i like how roughed up they'd get. looked worn because they were. the original color dusted with a light wash of dirty dust. i was brought up to dress 'sharp'. i had glasses and wore classic department clothes, bought in bulk, bought on sale. i grew up and thrifted, scoured old closets, a river of black, white, shades of blue and green. things i liked. an (my) 'aesthetic' is still hard to put into words, but seems less important now.
+my new pair this year and i like how roughed up they'd get. looked worn because they were. the original color dusted with a light wash of dirty dust. i was brought up to dress 'sharp'. i had glasses and wore classic department clothes, bought in bulk, bought on sale. i grew up and thrifted, scoured old closets, a river of black, white, shades of blue and green. things i liked. 
+
+an (my) 'aesthetic' is still hard to put into words, but seems less important now.
 
 plato argued that creativity, that art was 'ex-nihilo', that all creation of the artistic form was derived from divine inspiration.
 

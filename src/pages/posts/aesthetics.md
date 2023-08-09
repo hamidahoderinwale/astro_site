@@ -47,7 +47,7 @@ i can't let a feeling just be a feeling. it needs to be something i can express.
 
 weird.
 
-anyways...i couldn't articulate that i appreciated how things looked. some things more than others. it didn't feel like enough. 
+anyways...i couldn't articulate that i appreciated how things looked, some things more than others. it didn't feel like enough. 
 
 i've mentioned how i never enjoyed museums. sometimes it still feels like people are strolling at these coloured canvases, pretending to care. i'm sure this is common experience, but it's not all the experiences that come with looking at the beautiful.
 

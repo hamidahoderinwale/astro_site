@@ -35,7 +35,7 @@ sturm und drag and the german romantics.
 
 platonic beauty was this intrinsically valuable thing (incredible i know).
 
-i mean i probably always held this truth, but im reaffirmed in my suspicion that having the vocabulary to articulate my inarticulable means a lot: actually important or not.
+i mean i probably always held this truth, but i'm reaffirmed in my suspicion that having the vocabulary to articulate my inarticulable means a lot: actually important or not.
 
 liking pretty things was not cringe? 
 

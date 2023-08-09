@@ -19,7 +19,7 @@ now i have the term "sturm und drag" etched in my memory. layovers in germany, i
 
 -------
 
-i never thought i was fashion-savvy. me? rejected it. in all honesty, i didn't even want it to apply. *cringe*
+i never thought i was fashion-savvy. me? rejected it. in all honesty, i didn't even want it to apply. *cringe.*
 
 i was the studious kid who had no time to care. right? i went through *that* phase where i hated pink, thought makeup was a travesty against authenticity.
 

@@ -10,8 +10,8 @@ layout: ../../layouts/Layout.astro
 
 There's the popular illusion of Rabbit-Duck. A rabbit or a duck? Up to you to decide.
 
-![Rabbit-Duck Illusion](https://www.independent.co.uk/news/science/duck-and-rabbit-illusion-b1821663.html)
-
+<img src="https://www.independent.co.uk/news/science/duck-and-rabbit-illusion-b1821663.html" width="300vw" height="200vh
+">
 
 A hallmark *illusion *for anyone who wants to drive home the idea of perceptual relativity. 
 

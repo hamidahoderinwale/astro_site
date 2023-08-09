@@ -53,7 +53,7 @@ i've mentioned how i never enjoyed museums. sometimes it still feels like people
 
 on the things i like. i wear classic black converse. every year or so, i'll get my one pair of shoes. surf reddit, maybe browse through pinterest, ask a friend. i need a sneaker. can i run? can i walk? is it decently water-proof? socks socked with water is still an annual experience, but some protection is nice. neutrals because they go with everything. before i didn't care or didn't spend time noticing.
 
-my new pair this year and i like how roughed up they'd get. looked worn because they were. the original color dusted with a light wash of dirty dust. 
+my new pair this year and i like how roughed up they'd get. looked worn because they were. the original color dusted with a light wash of dirty dust. sometimes the lack of patience gets a hold of me and the laces get tied in an odd way, some additional quirk to be matched with my mismatched socks because i can't help but loose a pair everytime.
 
 past-tense was unintentional, i'll keep them for a while. some things are being left behind though. some dirty dust has been washed away.
 

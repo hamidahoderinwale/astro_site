@@ -59,7 +59,7 @@ my new pair this year and i like how roughed up they'd get. looked worn because 
 
 past-tense was unintentional, i'll keep them for a while. some things are being left behind though. some dirty dust has been washed away.
 
-i was brought up to dress 'sharp'. i had glasses and wore classic department clothes, bought in bulk, bought on sale. i grew up and thrifted, scoured old closets, a river of black, white, shades of blue and green. things i liked. 
+i was brought up to dress 'sharp'. i had glasses and wore classic department clothes, bought in bulk, bought on sale. i grew up and thrifted, scoured old closets, my closet is a river of black, white, shades of blue and green. things i liked. things i like.
 
 
 

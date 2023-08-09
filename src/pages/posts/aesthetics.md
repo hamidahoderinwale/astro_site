@@ -7,9 +7,9 @@ layout: ../../layouts/Layout.astro
 <p><i>August 8, 2023</i></p>
 
 ---
-at some point i started saying that i'm into aesthetics, interested in romantic philosophy. big words once again.
+at some point i started saying that i'm into aesthetics, interested in romantic philosophy. 
 
-...to be verbose.
+here we go with the big words again...to be verbose.
 
 i mean it's true, it's not a lie at the very least. i read simplicius simplicissimus: the baroque-style german-book about the insufferable kid who became a theistic hermit apprentice, a  cute kid, studiously christian in the age of the thirty years war. insufferable to less so over the course of the book.
 

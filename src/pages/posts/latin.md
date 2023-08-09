@@ -10,7 +10,7 @@ layout: ../../layouts/Layout.astro
 
 There's something about focus, staying specialized, etc. However, it's a shame that Latin America practically flew under my radar.
 
-I know relatively little about the region, but interesting things are happening and a ground for exploring a vast range of topics. 
+I know relatively little about the region, but interesting things are happening, the history is just as rich.
 
 A host for developing and developed nations, stricken by brain drain, criminally governed, and afflicted by ecological degradation, among others. A melting point of culture that I only experience through vibrant anecdotes and romanticized cinematic depiction. What's going on here? What should I know?
 

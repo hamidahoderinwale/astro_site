@@ -16,7 +16,7 @@ A host for developing and developed nations, stricken by brain drain, criminally
 
 I know I don't know much, but that can change.
 
-However, they remained resilient throughout the pandemic and have economically suffered relatively less during the Russian-Ukraine war. The European Commission is investing heavily in the region, drawing up some synergies with Chinese efforts to invest in Africa aggressively. A thesis of working on building up the underdeveloped as a 0-1 approach to building their economies and benefiting the richer as a result.
+They remained resilient throughout the pandemic and have done relatively better than their counterparts during the Russian-Ukraine war. The European Commission is investing heavily in the region, drawing up some synergies with Chinese efforts to invest in Africa aggressively. A thesis of working on building up the underdeveloped as a 0-1 approach to building their economies and benefiting the richer as a result.
 
 Although inflation has generally been slowing down, Argentina and Venezuela (although less so) are massive outliers, and the rest of the world has looked to them to see how they respond. Argentina printed more money in response to the pandemic, but without enough strategic effort it curtailed a start devaluation of their currency. Argentinians cope with interest-free credit, a cashless society via crypto and the more archaic 'barter or swap' economy and classic overspending. Solutions are difficult to muster and there a case study for what to do under these extreme circumstances, with Zimbabwe also being another classic. Demonetization is the proposed solution, one that I subscribe to, but what this actually means in practice is much harder to articulate.
 

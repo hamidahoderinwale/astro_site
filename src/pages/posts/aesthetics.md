@@ -31,7 +31,7 @@ being called pretty was a worse compliment than being called smart, in the zero-
 
 sturm und drag and the german romantics.
 
-my movement. the credo i quickly outfitted for the time-being.
+*my movement.* the credo i quickly outfitted for the time-being.
 
 platonic beauty was this intrinsically valuable thing (incredible i know).
 

@@ -10,10 +10,10 @@ layout: ../../layouts/Layout.astro
 
 There's the popular illusion of Rabbit-Duck. A rabbit or a duck? Up to you to decide.
 
-<img src="https://www.independent.co.uk/news/science/duck-and-rabbit-illusion-b1821663.html" width="300vw" height="200vh
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/02/14/12/duck-rabbit.png?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp" width="300vw" height="200vh
 ">
 
-A hallmark *illusion *for anyone who wants to drive home the idea of perceptual relativity. 
+A hallmark *illusion* for anyone who wants to drive home the idea of perceptual relativity. 
 
 Attempting to dig conceptually deeper, Wittgenstein - an Austrian philosopher - [argues that the illusion represents the distinction between perception and interpretation.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189753) When you understand that there are two potential ways to see the image: your response to what you think it is, goes from stating a fact to an opinion. 
 

@@ -27,7 +27,7 @@ function over form.
 
 being called pretty was a worse compliment than being called smart, in the zero-sum world i fabricated for myself - praise for my erudition has been replaced by comments on my appearance. an abomination! things change. i've changed. 
 
-my views on the world...also changed, priorities too.
+my views on the world also changed, priorities too. one could guess, not different than the rest. in this regard, i'm grateful for it.
 
 ------
 

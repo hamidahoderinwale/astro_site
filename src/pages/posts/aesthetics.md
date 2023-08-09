@@ -23,7 +23,7 @@ i never thought i was fashion-savvy. me? rejected it. in all honesty, i didn't e
 
 i was the studious kid who had no time to care. right? i went through *that* phase where i hated pink, thought makeup was a travesty against authenticity.
 
-function was over form. 
+function over form. 
 
 being called pretty was a worse compliment than being called smart, in the zero-sum world i fabricated for myself - praise for my erudition has been replaced by comments on my appearance. an abomination! things change. i've changed. my views on the world...also changed, priorities too.
 

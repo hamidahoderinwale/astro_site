@@ -140,7 +140,7 @@ poetic thought. it exists, but it’s not our mainstream.
 
 sure, we have schools where we actually read orwell's animal farm (sorry lex), but north american high schools teach the humanities in a system enveloped by a rat-race that incentivizes good grades and extracurriculars in a way that means you're better off feeding prompts into chatgpt, tweaking your work to avoid getting caught by detectors, and attending yet another club meeting to pad your resume. gameable.
 
-i'm looking at your ethos - genuine or not. get me onboard. articulate your theory of change in such a way that I feel like i have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that i *have* to take the actions you want me to take. my agency still feels like my own because you write about the world in such a gloomy way that I have to act, or else I'm the problem.
+i'm looking at your ethos - genuine or not. get me onboard. articulate your theory of change in such a way that i feel like i have no choice but to accept it. with words, entangle your worldview with mine. let the lines become so blurred that i *have* to take the actions you want me to take. my agency still feels like my own because you write about the world in such a gloomy way that i have to act, or else i'm the problem.
 
 the bible didn't suggest the physical axioms of the universe, but rather narratives of those that did or didn't act in accordance with God's will. there's nothing discrete about heaven and hell, beyond maybe your mind when it decides you probably want to go to one, not the other.
 

@@ -4,6 +4,7 @@ layout: ../../layouts/Layout.astro
 ---
 
 <h2> a sense of aesthetics</h2>
+<h5>i guess this is what it looks like to embrace the quirk.</h5>
 <p><i>August 8, 2023</i></p>
 
 ---

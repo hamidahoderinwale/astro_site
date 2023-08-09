@@ -65,5 +65,5 @@ an (my) 'aesthetic' is still hard to put into words, but seems less important no
 
 plato argued that creativity, that art was 'ex-nihilo', that all creation of the artistic form was derived from divine inspiration.
 
-purity in ingenuity. a simple story.
+purity in ingenuity. simple. kinda basic.
 

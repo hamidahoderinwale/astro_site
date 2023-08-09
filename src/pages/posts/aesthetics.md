@@ -10,7 +10,7 @@ i guess this is what it looks like to embrace the quirk.
 ---
 at some point i started saying that i'm into aesthetics, interested in romantic philosophy. 
 
-> here i go again with the big words. to be verbose...
+> *here i go again with the big words. to be verbose...*
 
 anyways, i think it's true that i'm into this kind of thing. it's not a lie at the very least. i read simplicius simplicissimus: the baroque-style german-book about the insufferable kid who became a theistic hermit apprentice, a  cute kid, studiously christian in the age of the thirty years war. insufferable, but less so by the end of the book.
 

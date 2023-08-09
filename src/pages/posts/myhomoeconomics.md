@@ -8,7 +8,7 @@ layout: ../../layouts/Layout.astro
 
 ---
 
-Some econ-related things I've been thinking about typed out real quick.
+Some econ-related things I've been thinking about that I typed out real quick.
 
 **The Career** 
 

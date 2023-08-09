@@ -9,9 +9,9 @@ layout: ../../layouts/Layout.astro
 ---
 at some point i started saying that i'm into aesthetics, interested in romantic philosophy. 
 
-here we go with the big words again...to be verbose.
+here we go with the big words again. . .to be verbose.
 
-i mean it's true, it's not a lie at the very least. i read simplicius simplicissimus: the baroque-style german-book about the insufferable kid who became a theistic hermit apprentice, a  cute kid, studiously christian in the age of the thirty years war. insufferable to less so over the course of the book.
+anyways, i think it's true that i'm into this kind of thing. it's not a lie at the very least. i read simplicius simplicissimus: the baroque-style german-book about the insufferable kid who became a theistic hermit apprentice, a  cute kid, studiously christian in the age of the thirty years war. insufferable to less so over the course of the book.
 
 i relished in rousseau's confessions and his odd life that now i can only recall in vague remembrance (he's genevan right?)
 

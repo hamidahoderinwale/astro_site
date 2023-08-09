@@ -15,7 +15,7 @@ anyways, i think it's true that i'm into this kind of thing. it's not a lie at t
 
 i relished in rousseau's confessions and his odd life that now i can only recall in vague remembrance (he's genevan right?)
 
-now i have the term "sturm und drag" etched in my memory. with layovers in germany, i'd think about how this is where these new considerations had their start. 
+now i have the term "sturm und drag" etched in my memory. layovers in germany, i'd think about how this is where these new considerations had their start. 
 
 -------
 

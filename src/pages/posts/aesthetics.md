@@ -54,7 +54,7 @@ weird.
 
 anyways...i couldn't articulate that i appreciated how things looked, some things more than others. it didn't feel like enough. 
 
-i've mentioned how i never enjoyed museums. sometimes it still feels like people are strolling at these coloured canvases, pretending to care. i'm sure this is common experience, but it's not all the experiences that come with looking at the beautiful.
+i've mentioned how i never enjoyed museums. sometimes it still feels like people are strolling by these coloured canvases, pretending to care. i'm sure this is common experience, but it's not all the experiences that come with looking at the beautiful.
 
 on the things i like. i wear classic black converse. every year or so, i'll get my one pair of shoes. surf reddit, maybe browse through pinterest, ask a friend. i need a sneaker. can i run? can i walk? is it decently water-proof? socks soaked with water is still an annual experience, but some protection is nice. neutrals because they go with everything. before i didn't care or didn't spend time noticing.
 

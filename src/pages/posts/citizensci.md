@@ -17,7 +17,7 @@ Being a well-accomplished chemist, Hofmann spoke to the revelatory effects of th
 
 Ten years following Hofmann's discovery, R. Gordon Wasson travelled to Mexico to gather psilocybin. However, as the war on drugs intensified in the 1960s, President Nixon's Controlled Substances Act made [psilocybin, mescaline, LSD, and DMT](https://www.beckleyfoundation.org/psychedelic-research-timeline-2/) illegal, temporarily ending government-sanctioned psychedelic research. This marked a significant decrease in research, lasting for the next three decades. Despite how promising the field seemed to be, psychedelics grew stigmatized, and progress stalled.
 
-![](RackMultipart20230810-1-jen8e8_html_8737f0a32716fb1c.png)
+![](/Users/hamidahoderinwale/regular-ring/src/pages/posts/image1.png)
 
 This [figure](https://colab.research.google.com/drive/1UvLDsKvWtHPM0PyfClJXpPZER9BVLCOU#scrollTo=kikUGjRUVGAr&line=11&uniqifier=1) includes clinical trials in humans, behavioural studies in animals, commentaries, and review articles about psilocybin research. The results are drawn from a Pubmed keyword search for psilocybin". There is a steep dropoff in 2023 that still trumps psychedelic research output in 2010 due to the time of this article being written in January and February of 2023.
 
@@ -31,7 +31,7 @@ Looking at how the psychonauts have spearheaded experimental design under the co
 
 Citizen science has been at the forefront of experimental design due to the limitations of institutional adoption, and one such practice that has emerged is self-blinding. This method is fascinating as it highlights the level of trust between experiment facilitators, participants, and the wider community, all of whom depend on credible findings to advance the field. Self-blinding in citizen science is a research method in which participants randomly assign themselves to different groups, such as treatment or control, and conduct measurements or assessments without knowing which group they belong to. This approach reduces the potential for bias or expectation effects in the results.
 
-![](RackMultipart20230810-1-jen8e8_html_ffb20a15f324f143.png)
+![](/Users/hamidahoderinwale/regular-ring/src/pages/posts/image2.png)
 
 ###### **Overview of the self-blinding setup.**
 
@@ -53,7 +53,7 @@ Institutions are pivotal in advancing science by providing funding, resources, a
 
 Recently, there has been a growing interest in the academic study of psychedelics. This surge in interest owes much to the work of psychonautic pioneers who have helped establish the safety and potential therapeutic benefits of these substances. Nevertheless, there is still a long way to go before integrating these findings into mainstream medicine and psychiatry. Nonetheless, the field of psychedelics represents a significant and ongoing effort actively reap the rewards of its humble origins.
 
-![](RackMultipart20230810-1-jen8e8_html_d19c161c2147aebc.png)
+![](/Users/hamidahoderinwale/regular-ring/src/pages/posts/image3.pngs)
 
 _A_ [_chart_](https://www.cbinsights.com/research/psychedelic-therapies-funding-startups/) _demonstrating the increase of funding in psychedelic therapy startups from 2017-2021._
 
@@ -73,7 +73,7 @@ In February 2016, Zayner attempted a full-body microbiome transplant, which incl
 
 Zayner launched a curriculum and marketplace under [The Open Discovery Institute](https://www.the-odin.com/bioe101/)(ODIN) that enables people to follow along and obtain the resources they require to self-experiment.
 
-![](RackMultipart20230810-1-jen8e8_html_5de9ee01cb56fff.png)
+![](/Users/hamidahoderinwale/regular-ring/src/pages/posts/image4.png)
 
 _A screenshot of_ [_ODIN's webpage_](https://www.the-odin.com/bioe101/)_, which shows their Bioengineering 101 Beginner Kit and Video Lectures on sale for $379.00 USD._
 

@@ -1,11 +1,6 @@
-import { defineConfig } from 'astro/config';
-import { remarkReadingTime } from './remark-reading-time.mjs';
-import getReadingTime from 'reading-time';
-import { toString } from 'mdast-util-to-string';
-import { defineConfig } from "astro/config";
-import partytown from "@astrojs/partytown";
+import { defineConfig } from 'astro/config'
 
-export function getReadingTime(content) {
-  if (!content) return;
-  // Do something
-}
+export default defineConfig({
+  // your configuration options here...
+  // https://docs.astro.build/en/reference/configuration-reference/
+})

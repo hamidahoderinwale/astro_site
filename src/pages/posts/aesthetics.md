@@ -1,8 +1,6 @@
-
 ---
 title: "aesthetics"
 layout: ../../layouts/Layout.astro
-import { getReadingTime } from '/Users/hamidahoderinwale/regular-ring/astro.config.mjs'
 ---
 
 <h2> a sense of aesthetics</h2>

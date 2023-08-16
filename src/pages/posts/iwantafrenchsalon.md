@@ -6,7 +6,6 @@ layout: ../../layouts/Layout.astro
 <h2>I Want A French Salon</h2>
 <p><i>August 15, 2023</i></p>
 
---- 
 
 When I was in school, I couldn’t wait to get to summer vacation. Long warm days and no structure: a two-month escape from concrete-walled monotony.
 

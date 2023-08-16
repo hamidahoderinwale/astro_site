@@ -6,6 +6,8 @@ layout: ../../layouts/Layout.astro
 <h2> Inertia </h2>
 <p><i>May 8, 2023</i></p>
 
+---
+
 I was listening to one of my newest favorite songs, "Autre Cote" by Elijah Fox - an exceptional contemporary pianist. I started tearing up while trying to put finish my Politics assignment. 
 
 So cringe. Those who have met me in real life, know this is the peak representation of the duality of man lol. 

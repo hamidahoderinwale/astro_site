@@ -1,5 +1,5 @@
 ---
-title: "100 Questions"
+title: "in defence of poetry"
 layout: ../../layouts/Layout.astro
 ---
 

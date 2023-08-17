@@ -3,7 +3,7 @@ title: "iwantafrenchsalon"
 layout: ../../layouts/Layout.astro
 ---
 
-<h2>I Want A French Salon</h2>
+<h2> I Want A French Salon </h2>
 <p><i>August 15, 2023</i></p>
 
 ---

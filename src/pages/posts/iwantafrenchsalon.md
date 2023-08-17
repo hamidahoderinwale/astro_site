@@ -1,5 +1,5 @@
 ---
-title: "I Want A French Salon"
+title: "iwantafrenchsalon"
 layout: ../../layouts/Layout.astro
 ---
 

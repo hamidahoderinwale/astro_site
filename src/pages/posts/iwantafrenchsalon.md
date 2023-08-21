@@ -47,7 +47,7 @@ Arguably because of you're adorably unwrinkled brain, this form of play counts a
 
 Someone asked about a subject I couldn’t get into and I said art history. I thought back to elementary school trips where I would lose attention staring at the canvasses in front of me, inattentive. Painted works mean at least a little more to me now The process of creating something beautiful is really fun. Sensory satisfaction of a paint-filled brush on paper, textured strokes, a cohesive image to look at when it’s all done. But to appreciate something I didn’t make, I tap into my limited experience, a narrative I make of their experience. The history behind their piece: German romanticism is an extension of this. Fétichisme of trauma by arbitrarily making the object form into an almost sensual experience. It takes brain power; unnatural? But I do it anyways, I do it more, and I want to. It goes beyond trying to be the type of person to appreciate it, or at least I hope it will.
 
-Continuing on the mathematics thread. The field medallist who was angsty and edgy and rose to mathematical excellence by credentials standards (at the very least). Korean dude
+Continuing on the mathematics thread. I think about June Huh - field's medallist who was angsty and edgy and rose to mathematical excellence by credentials standards (at the very least).
 
 In going to academic things beyond anything school-related. In almost all of these events and programs: a common thread was the level of excitement about intellectualism that was bestowed on me. My Twitter feed embeds the feeling of "I have to," but these environments made it feel like it was cool to be like this, and I want to be cool.
 

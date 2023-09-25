@@ -23,7 +23,11 @@ Environments with other students with people who are literally paid to do resear
 
 There are these different modes of academic socialism that sometimes embody this spirit (much) better. In 18th century France, there were these things called salons, mainly for women; they would gather and discuss literature, politics, science and other topics. 
 
-At these organized events, attendees were expected to share their views, and as such, they became a breeding ground for new social thought. In a relatively feudal society, going to these was a demonstration of class, so tending to your thoughts about the world was high status. Your invitation was at the mercy of a salonniére who constructed the guest list. Beyond opinion sharing and social prestige, what did you have to gain from going? It would make you a better mother; after all, this was the main sentiment that went into letting women attend university.
+At these organized events, attendees were expected to share their views, and as such, they became a breeding ground for new social thought.
+
+In a relatively feudal society, going to these was a demonstration of class, so tending to your thoughts about the world was high status.
+
+ Your invitation was at the mercy of a salonniére who constructed the guest list. Beyond opinion sharing and social prestige, what did you have to gain from going? It would make you a better mother; after all, this was the main sentiment that went into letting women attend university.
 
 Their right to attend was granted in the 19th century, but until then, salons were an imperfect alternative. I mention how Shelley went from peak enlightened to romantic after marrying Mary Shelley, and it's interesting how some of the more famous salons were attended by the wives of the classic great thinkers; what novel thought did they inspire, perhaps create, with much less recognition? Sophie de Condorcet - the wife of Marquis de Condorcet; Madame Necker, Swiss governess and wife of Jacques Necker; Madame Swetchine - the wife of General Swetchine; the list goes on...
 
@@ -45,7 +49,11 @@ Regardless, there exist different modes of socialism. I recently saw on Instagra
 
 Arguably because of you're adorably unwrinkled brain, this form of play counts as some kind of learning, and the fact and way you play with someone makes it a form of socialism. Academic socialism.
 
-Someone asked about a subject I couldn’t get into and I said art history. I thought back to elementary school trips where I would lose attention staring at the canvasses in front of me, inattentive. Painted works mean at least a little more to me now The process of creating something beautiful is really fun. Sensory satisfaction of a paint-filled brush on paper, textured strokes, a cohesive image to look at when it’s all done. But to appreciate something I didn’t make, I tap into my limited experience, a narrative I make of their experience. The history behind their piece: German romanticism is an extension of this. Fétichisme of trauma by arbitrarily making the object form into an almost sensual experience. It takes brain power; unnatural? But I do it anyways, I do it more, and I want to. It goes beyond trying to be the type of person to appreciate it, or at least I hope it will.
+Someone asked about a subject I couldn’t get into and I said art history. I thought back to elementary school trips where I would lose attention staring at the canvasses in front of me, inattentive. Painted works mean at least a little more to me now The process of creating something beautiful is really fun. Sensory satisfaction of a paint-filled brush on paper, textured strokes, a cohesive image to look at when it’s all done. But to appreciate something I didn’t make, I tap into my limited experience, a narrative I make of their experience. 
+
+What's the story behind the piece. German romantic works are an extension of this. Fétichisme of trauma by arbitrarily making the object form into an almost sensual experience. 
+
+To do this, it takes brain power; unnatural? But I do it anyways, I do it more, and I want to. It goes beyond trying to be the type of person to appreciate it, or at least I hope it will.
 
 Continuing on the mathematics thread. I think about June Huh - field's medallist who was angsty and edgy and rose to mathematical excellence by credentials standards (at the very least).
 
@@ -53,9 +61,11 @@ In going to academic things beyond anything school-related. In almost all of the
 
 Something I've been trying to come to thoughts about is in regards to this whole idea of "death with conviction". It started from reading the biography of "Aaron Schwartz" who lived by his stance on rights to information. He worked on projects that aligned with this and although the ending of his life is unfortunate: he had personal ties to his work that most don't, a life spent in pursuit of an aim that he truly believed in - or so we assume.
 
-At the Interact retreat, there were many talks, panels, etc., as the un-conference structure would make you expect. We had a formal guest (speaker) - Thomas Khalil - the Chief Innovation Officer at Schmidt Futures. It's common that someone on the older side, invited as a guest speaker and presented with accolades will be applauded for whatever they say. But, he had genuinely interesting things to say, especially interesting anecdotes: working in both the Biden and Obama Administrations and having his mind-picked on his impressive code-switching and windy career path that he can still speak of with coherence.
+At the Interact retreat, there were many talks, panels, etc., as the un-conference structure would make you expect. We had a formal guest (speaker) - Thomas Khalil - the Chief Innovation Officer at Schmidt Futures. It's a common thing where someone on the older side, invited as a guest speaker and presented with accolades will be applauded for whatever they say. But, he had genuinely interesting things to say, especially interesting anecdotes: working in both the Biden and Obama Administrations and having his mind-picked on his impressive code-switching and windy career path that he can still speak of with coherence.
 
-A lot of the things he said were of the "You and Your Research" flavour - Richard Hamming's Nobel Prize acceptance speech. It was delightfully eloquent and applicable to the wide range of backgrounds that were present but still ticklishly vague about the nitty-gritty of what it looks like to get things done: not how to muster up the motivation, not the frameworks you need to tackle problems, not the social prowess you can embody by engaging with humanity in a deeply emotional way. The emails that you have to send, the forming of a problem and what it looks like to actually send that to relevant stakeholders, what it actually means to be a staffer to the chair of the Semiconductor Industry Association overlooking Japanese-US affairs.
+A lot of the things he said were of the "You and Your Research" flavour - of a similar essence to Richard Hamming's Nobel Prize acceptance speech.
+
+It was delightfully eloquent and applicable to the wide range of backgrounds that were present but still ticklishly vague about the nitty-gritty of what it looks like to get things done: not how to muster up the motivation, not the frameworks you need to tackle problems, not the social prowess you can embody by engaging with humanity in a deeply emotional way. The emails that you have to send, the forming of a problem and what it looks like to actually send that to relevant stakeholders, what it actually means to be a staffer to the chair of the Semiconductor Industry Association overlooking Japanese-US affairs.
 
 However, I don't think it's a matter of the speaker necessarily diluting or dumbing down their efforts for the sake of a talk but the actual way in which they view their journey.
 
